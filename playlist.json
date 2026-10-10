@@ -1,22 +1,6 @@
 [
-  {
-    "pasta": "highway-to-hell",
-    "nome": "Highway To Hell - AC/DC",
-    "dificuldade": "Médio"
-  },
-  {
-    "pasta": "iron-man",
-    "nome": "Iron Man - Black Sabbath",
-    "dificuldade": "Médio"
-  },
-  {
-    "pasta": "metal-is-the-law",
-    "nome": "Metal Is The Law - Massacration",
-    "dificuldade": "Difícil pra c4r@lh0"
-  },
-  {
-    "pasta": "debil-metal-remaster-v1",
-    "nome": "Debil Metal - Mamonas Assassinas",
-    "dificuldade": "Difícil"
-  }
+  { "pasta": "highway-to-hell", "nome": "Highway To Hell - AC/DC", "nivel": 3, "dificuldade": "Médio" },
+  { "pasta": "iron-man", "nome": "Iron Man - Black Sabbath", "nivel": 3, "dificuldade": "Médio" },
+  { "pasta": "metal-is-the-law", "nome": "Metal Is The Law - Massacration", "nivel": 5, "dificuldade": "Difícil pra c4r@lh0" },
+  { "pasta": "debil-metal-remaster-v1", "nome": "Debil Metal - Mamonas Assassinas", "nivel": 4, "dificuldade": "Difícil" }
 ]
