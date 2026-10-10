@@ -2,6 +2,5 @@
   { "pasta": "highway-to-hell", "nome": "Highway To Hell - AC/DC", "nivel": 3, "dificuldade": "Médio" },
   { "pasta": "iron-man", "nome": "Iron Man - Black Sabbath", "nivel": 3, "dificuldade": "Médio" },
   { "pasta": "debil-metal-remaster-v1", "nome": "Debil Metal - Mamonas Assassinas", "nivel": 4, "dificuldade": "Difícil" },
-  { "pasta": "metal-is-the-law", "nome": "Metal Is The Law - Massacration", "nivel": 5, "dificuldade": "Difícil pra c4r@lh0" },
-  {"pasta": "scalene-trilha", "nome": "Trilha - Scalene", "nivel": 4, "dificuldade": "Médio"}
+  { "pasta": "metal-is-the-law", "nome": "Metal Is The Law - Massacration", "nivel": 5, "dificuldade": "Difícil pra c4r@lh0" }
 ]
