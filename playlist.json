@@ -2,21 +2,21 @@
   {
     "pasta": "highway-to-hell",
     "nome": "Highway To Hell - AC/DC",
-    "dificuldade": "3"
+    "dificuldade": 3
   },
   {
     "pasta": "iron-man",
     "nome": "Iron Man - Black Sabbath",
-    "dificuldade": "2"
+    "dificuldade": 2
   },
   {
     "pasta": "metal-is-the-law",
     "nome": "Metal Is The Law - Massacration",
-    "dificuldade": "5"
+    "dificuldade": 5
   },
   {
     "pasta": "debil-metal-remaster-v1",
     "nome": "Debil Metal - Mamonas Assassinas",
-    "dificuldade": "4"
+    "dificuldade": 4
   }
 ]
