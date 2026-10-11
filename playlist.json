@@ -3,5 +3,6 @@
   { "pasta": "iron-man", "nome": "Iron Man - Black Sabbath", "nivel": 4, "dificuldade": "Difícil" },
   { "pasta": "debil-metal-remaster-v1", "nome": "Debil Metal - Mamonas Assassinas", "nivel": 4, "dificuldade": "Difícil" },
   { "pasta": "metal-is-the-law", "nome": "Metal Is The Law - Massacration", "nivel": 5, "dificuldade": "Difícil pra c4r@lh0" },
-  { "pasta": "danse-macabre", "nome": "Danse Macabre - Scalene", "nivel": 2, "dificuldade": "Fácil"}
+  { "pasta": "danse-macabre", "nome": "Danse Macabre - Scalene", "nivel": 2, "dificuldade": "Fácil"},
+  {"pasta": "you-know-youre-right", "nome": "You Know Youre Right", "nivel": 1, "dificuldade": "Fácil"}
 ]
