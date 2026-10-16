@@ -1,8 +1,32 @@
 [
-  { "pasta": "highway-to-hell", "nome": "Highway To Hell - AC/DC", "nivel": 3, "dificuldade": "Médio" },
-  { "pasta": "iron-man", "nome": "Iron Man", "nivel": 4, "artista": "Black Sabbath" },
-  { "pasta": "debil-metal-remaster-v1", "nome": "Debil Metal - Mamonas Assassinas", "nivel": 4, "dificuldade": "Difícil" },
-  { "pasta": "metal-is-the-law", "nome": "Metal Is The Law - Massacration", "nivel": 5, "dificuldade": "Difícil pra c4r@lh0" },
-  { "pasta": "danse-macabre", "nome": "Danse Macabre - Scalene", "nivel": 2, "dificuldade": "Fácil"},
-  {"pasta": "you-know-youre-right", "nome": "You Know Youre Right", "nivel": 1, "dificuldade": "Fácil"}
+  {
+    "pasta": "highway-to-hell",
+    "nome": "Highway To Hell",
+    "artista": "AC/DC"
+  },
+  {
+    "pasta": "iron-man",
+    "nome": "Iron Man",
+    "artista": "Black Sabbath"
+  },
+  {
+    "pasta": "debil-metal-remaster-v1",
+    "nome": "Debil Metal",
+    "artista": "Mamonas Assassinas"
+  },
+  {
+    "pasta": "metal-is-the-law",
+    "nome": "Metal Is The Law",
+    "artista": "Massacration"
+  },
+  {
+    "pasta": "danse-macabre",
+    "nome": "Danse Macabre",
+    "artista": "Scalene"
+  },
+  {
+    "pasta": "you-know-youre-right",
+    "nome": "You Know You're Right",
+    "artista": "Nirvana"
+  }
 ]
