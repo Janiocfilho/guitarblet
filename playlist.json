@@ -1,36 +1,36 @@
 [
   {
-    "pasta": "AC-DC/highway-to-hell",
+    "pasta": "highway-to-hell",
     "nome": "Highway To Hell",
     "artista": "AC/DC"
   },
   {
-    "pasta": "Black-Sabbath/iron-man",
+    "pasta": "iron-man",
     "nome": "Iron Man",
     "artista": "Black Sabbath"
   },
   {
-    "pasta": "Mamonas-Assassinas/debil-metal-remaster-v1",
+    "pasta": "debil-metal-remaster-v1",
     "nome": "Debil Metal",
     "artista": "Mamonas Assassinas"
   },
   {
-    "pasta": "Massacration/metal-is-the-law",
+    "pasta": "metal-is-the-law",
     "nome": "Metal Is The Law",
     "artista": "Massacration"
   },
   {
-    "pasta": "Scalene/danse-macabre",
+    "pasta": "danse-macabre",
     "nome": "Danse Macabre",
     "artista": "Scalene"
   },
   {
-    "pasta": "Nirvana/you-know-youre-right",
+    "pasta": "you-know-youre-right",
     "nome": "You Know You're Right",
     "artista": "Nirvana"
   },
   {
-    "pasta": "Avenged-Sevenfold/nobody",
+    "pasta": "nobody",
     "nome": "Nobody",
     "artista": "Avenged Sevenfold"
   }
