@@ -33,5 +33,10 @@
     "pasta": "nobody",
     "nome": "Nobody",
     "artista": "Avenged Sevenfold"
+  },
+    {
+    "pasta": "god-hates-us",
+    "nome": "God Hates Us",
+    "artista": "Avenged Sevenfold"
   }
 ]
