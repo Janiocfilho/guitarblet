@@ -16,7 +16,7 @@
     {
       "id": "guitarra-caverica",
       "nome": "Guitarra Cavérica",
-      "jogadores": ["Razum"],
+      "jogadores": ["razum"],
       "config": {"espaco": 40, "deslocamentoX": 10},
       "grade": 3,
       "largura": 264,
