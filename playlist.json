@@ -34,9 +34,14 @@
     "nome": "Nobody",
     "artista": "Avenged Sevenfold"
   },
-    {
+  {
     "pasta": "god-hates-us",
     "nome": "God Hates Us",
+    "artista": "Avenged Sevenfold"
+  },
+  {
+    "pasta": "carry-on",
+    "nome": "Carry On",
     "artista": "Avenged Sevenfold"
   }
 ]
