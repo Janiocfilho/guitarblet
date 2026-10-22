@@ -1,7 +1,7 @@
 {
   "cargos": {
     "desenvolvedor": {"jogadores": ["razum"], "ignoraNivel": true, "acessoTotal": true},
-    "tester": {"jogadores": []}
+    "tester": {"jogadores": ["tav1n"]}
   },
   "guitarras": [
     {
@@ -16,7 +16,7 @@
     {
       "id": "guitarra-caverica",
       "nome": "Guitarra Cavérica",
-      "jogadores": ["razum", "tav1n"],
+      "cargos": ["tester"],
       "config": {"espaco": 40, "deslocamentoX": 10},
       "grade": 3,
       "largura": 264,
