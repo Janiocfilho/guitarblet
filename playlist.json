@@ -1,51 +1,51 @@
 [
   {
-    "pasta": "highway-to-hell",
+    "pasta": "musicas/ac-dc/highway-to-hell",
     "nome": "Highway To Hell",
     "artista": "AC/DC"
   },
   {
-    "pasta": "iron-man",
+    "pasta": "musicas/black-sabbath/iron-man",
     "nome": "Iron Man",
     "artista": "Black Sabbath"
   },
   {
-    "pasta": "debil-metal-remaster-v1",
+    "pasta": "musicas/mamonas-assassinas/debil-metal-remaster-v1",
     "nome": "Debil Metal",
     "artista": "Mamonas Assassinas"
   },
   {
-    "pasta": "metal-is-the-law",
+    "pasta": "musicas/massacration/metal-is-the-law",
     "nome": "Metal Is The Law",
     "artista": "Massacration"
   },
   {
-    "pasta": "danse-macabre",
+    "pasta": "musicas/scalene/danse-macabre",
     "nome": "Danse Macabre",
     "artista": "Scalene"
   },
   {
-    "pasta": "nobody",
+    "pasta": "musicas/avenged-sevenfold/nobody",
     "nome": "Nobody",
     "artista": "Avenged Sevenfold"
   },
   {
-    "pasta": "god-hates-us",
+    "pasta": "musicas/avenged-sevenfold/god-hates-us",
     "nome": "God Hates Us",
     "artista": "Avenged Sevenfold"
   },
   {
-    "pasta": "carry-on",
+    "pasta": "musicas/avenged-sevenfold/carry-on",
     "nome": "Carry On",
     "artista": "Avenged Sevenfold"
   },
   {
-    "pasta": "lonely-day",
+    "pasta": "musicas/system-of-a-down/lonely-day",
     "nome": "Lonely Day",
     "artista": "System of a Down"
   },
   {
-    "pasta": "medley",
+    "pasta": "musicas/baroes-da-pisadinha/medley",
     "nome": "Solos Medley",
     "artista": "Baroes Da Pisadinha"
   }
