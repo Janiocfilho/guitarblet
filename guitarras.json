@@ -36,7 +36,6 @@
     {
       "id": "tester",
       "nome": "Tester",
-      "jogadores": "razum",
       "grade": 1,
       "largura": 70,
       "altura": 70,
