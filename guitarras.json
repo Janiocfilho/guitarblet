@@ -18,7 +18,6 @@
     {
       "id": "guitarra-eletrica",
       "nome": "Guitarra Elétrica",
-      "nivelMin": 5,
       "config": {"espaco": 40, "deslocamentoX": 9},
       "grade": 3,
       "largura": 249,
