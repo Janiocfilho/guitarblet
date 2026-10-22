@@ -4,7 +4,7 @@
       "id": "guitarra-carmesim",
       "nome": "Guitarra Carmesim",
       "config": {
-        "espaco": 30
+        "espaco": 10
       },
       "grade": 3,
       "largura": 219,
