@@ -1,5 +1,5 @@
- {
-  "cargos": {"desenvolvedor": {"jogadores": ["razum"], "ignoraNivel": true, "acessoTotal": true}, "tester": {"jogadores": ["tav1n", "dedication", ".nash"]}},
+{
+  "cargos": {"desenvolvedor": {"jogadores": ["razum"], "ignoraNivel": true, "acessoTotal": true}, "tester": {"jogadores": ["tav1n"]}},
   "guitarras": [
     {
       "id": "guitarra-eletrica",
@@ -13,7 +13,7 @@
     },
     {
       "id": "guitarra-semi-acustica-vinho",
-      "nome": "Guitarra Semi-Acústica Vinho",
+      "nome": "Semi-Acústica Vinho",
       "nivelMin": 5,
       "config": {"espaco": 40, "deslocamentoX": 9},
       "grade": 3,
@@ -24,7 +24,7 @@
     },
     {
       "id": "guitarra-les-paul-gold",
-      "nome": "Guitarra Les Paul Gold",
+      "nome": "Les Paul Gold",
       "nivelMin": 10,
       "config": {"espaco": 40, "deslocamentoX": 9},
       "grade": 3,
@@ -35,9 +35,8 @@
     },
     {
       "id": "guitarra-sg-vermelha",
-      "nome": "Guitarra SG Vermelha",
-      "nivelMin": 10,
-      "cargos": "tester"
+      "nome": "SG Vermelha",
+      "cargos": ["tester"],
       "config": {"espaco": 40, "deslocamentoX": 9},
       "grade": 3,
       "largura": 249,
