@@ -1,5 +1,5 @@
 {
-  "cargos": {"desenvolvedor": {"jogadores": ["razum"], "ignoraNivel": true, "acessoTotal": true}, "tester": {"jogadores": ["tav1n"]}},
+  "cargos": {"desenvolvedor": {"jogadores": ["razum"], "ignoraNivel": true, "acessoTotal": true}, "tester": {"jogadores": ["tav1n", "dedication", ".nash"]}},
   "guitarras": [
     {
       "id": "guitarra-eletrica",
