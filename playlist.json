@@ -55,6 +55,12 @@
     "artista": "Warrant"
   },
   {
+    "pasta": "clint-eastwood",
+    "nome": "Clint Eastwood",
+    "nivel": 4,
+    "dificuldade": "Expert"
+  },
+  {
     "pasta": "musicas/black-clover/black-catcher",
     "nome": "Black Catcher",
     "artista": "Black Clover"
