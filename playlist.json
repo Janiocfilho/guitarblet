@@ -55,10 +55,9 @@
     "artista": "Warrant"
   },
   {
-    "pasta": "clint-eastwood",
+    "pasta": "musicas/gorillaz/clint-eastwood",
     "nome": "Clint Eastwood",
-    "nivel": 4,
-    "dificuldade": "Expert"
+    "artista": "Gorillaz"
   },
   {
     "pasta": "musicas/black-clover/black-catcher",
