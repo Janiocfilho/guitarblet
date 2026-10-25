@@ -1,5 +1,5 @@
 {
-  "cargos": {"desenvolvedor": {"jogadores": ["guitarblet", "razum"], "ignoraNivel": true, "acessoTotal": true, "titulo": "DESENVOLVEDOR", "nivel": 53}, "tester": {"jogadores": ["tav1n"], "ignoraNivel": true}},
+  "cargos": {"desenvolvedor": {"jogadores": ["guitarblet", "razum"], "ignoraNivel": true, "acessoTotal": true, "titulo": "DESENVOLVEDOR"}, "tester": {"jogadores": ["tav1n"], "ignoraNivel": true}},
   "guitarras": [
     {
       "id": "guitarra-eletrica",
