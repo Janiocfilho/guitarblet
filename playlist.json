@@ -1,8 +1,38 @@
 [
   {
+    "pasta": "musicas/black-clover/black-catcher",
+    "nome": "Black Catcher",
+    "artista": "Black Clover",
+    "categoria": "Geek"
+  },
+  {
+    "pasta": "musicas/baroes-da-pisadinha/medley",
+    "nome": "Solos Medley",
+    "artista": "Baroes Da Pisadinha",
+    "categoria": "Meme"
+  },
+  {
     "pasta": "musicas/ac-dc/highway-to-hell",
     "nome": "Highway To Hell",
     "artista": "AC/DC",
+    "categoria": "Principal"
+  },
+  {
+    "pasta": "musicas/avenged-sevenfold/carry-on",
+    "nome": "Carry On",
+    "artista": "Avenged Sevenfold",
+    "categoria": "Principal"
+  },
+  {
+    "pasta": "musicas/avenged-sevenfold/god-hates-us",
+    "nome": "God Hates Us",
+    "artista": "Avenged Sevenfold",
+    "categoria": "Principal"
+  },
+  {
+    "pasta": "musicas/avenged-sevenfold/nobody",
+    "nome": "Nobody",
+    "artista": "Avenged Sevenfold",
     "categoria": "Principal"
   },
   {
@@ -18,6 +48,12 @@
     "categoria": "Principal"
   },
   {
+    "pasta": "musicas/gorillaz/clint-eastwood",
+    "nome": "Clint Eastwood",
+    "artista": "Gorillaz",
+    "categoria": "Principal"
+  },
+  {
     "pasta": "musicas/mamonas-assassinas/debil-metal",
     "nome": "Debil Metal",
     "artista": "Mamonas Assassinas",
@@ -30,57 +66,9 @@
     "categoria": "Principal"
   },
   {
-    "pasta": "musicas/scalene/danse-macabre",
-    "nome": "Danse Macabre",
-    "artista": "Scalene",
-    "categoria": "Principal"
-  },
-  {
-    "pasta": "musicas/avenged-sevenfold/nobody",
-    "nome": "Nobody",
-    "artista": "Avenged Sevenfold",
-    "categoria": "Principal"
-  },
-  {
-    "pasta": "musicas/avenged-sevenfold/god-hates-us",
-    "nome": "God Hates Us",
-    "artista": "Avenged Sevenfold",
-    "categoria": "Principal"
-  },
-  {
-    "pasta": "musicas/avenged-sevenfold/carry-on",
-    "nome": "Carry On",
-    "artista": "Avenged Sevenfold",
-    "categoria": "Principal"
-  },
-  {
-    "pasta": "musicas/system-of-a-down/lonely-day",
-    "nome": "Lonely Day",
-    "artista": "System of a Down",
-    "categoria": "Principal"
-  },
-  {
-    "pasta": "musicas/scalene/sonhador",
-    "nome": "Sonhador",
-    "artista": "Scalene",
-    "categoria": "Principal"
-  },
-  {
-    "pasta": "musicas/baroes-da-pisadinha/medley",
-    "nome": "Solos Medley",
-    "artista": "Baroes Da Pisadinha",
-    "categoria": "Meme"
-  },
-  {
-    "pasta": "musicas/warrant/cherry-pie",
-    "nome": "Cherry Pie",
-    "artista": "Warrant",
-    "categoria": "Principal"
-  },
-  {
-    "pasta": "musicas/gorillaz/clint-eastwood",
-    "nome": "Clint Eastwood",
-    "artista": "Gorillaz",
+    "pasta": "musicas/michael-jackson/beat-it",
+    "nome": "Beat It",
+    "artista": "Michael Jackson",
     "categoria": "Principal"
   },
   {
@@ -90,9 +78,27 @@
     "categoria": "Principal"
   },
   {
-    "pasta": "musicas/black-clover/black-catcher",
-    "nome": "Black Catcher",
-    "artista": "Black Clover",
-    "categoria": "Geek"
+    "pasta": "musicas/scalene/danse-macabre",
+    "nome": "Danse Macabre",
+    "artista": "Scalene",
+    "categoria": "Principal"
+  },
+  {
+    "pasta": "musicas/scalene/sonhador",
+    "nome": "Sonhador",
+    "artista": "Scalene",
+    "categoria": "Principal"
+  },
+  {
+    "pasta": "musicas/system-of-a-down/lonely-day",
+    "nome": "Lonely Day",
+    "artista": "System of a Down",
+    "categoria": "Principal"
+  },
+  {
+    "pasta": "musicas/warrant/cherry-pie",
+    "nome": "Cherry Pie",
+    "artista": "Warrant",
+    "categoria": "Principal"
   }
 ]
