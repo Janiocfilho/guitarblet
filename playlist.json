@@ -3,55 +3,55 @@
     "pasta": "musicas/ac-dc/highway-to-hell",
     "nome": "Highway To Hell",
     "artista": "AC/DC",
-    "categoria": "Rock"
+    "categoria": "Principal"
   },
   {
     "pasta": "musicas/black-sabbath/iron-man",
     "nome": "Iron Man",
     "artista": "Black Sabbath",
-    "categoria": "Rock"
+    "categoria": "Principal"
   },
   {
     "pasta": "musicas/mamonas-assassinas/debil-metal",
     "nome": "Debil Metal",
     "artista": "Mamonas Assassinas",
-    "categoria": "Meme"
+    "categoria": "Principal"
   },
   {
     "pasta": "musicas/massacration/metal-is-the-law",
     "nome": "Metal Is The Law",
     "artista": "Massacration",
-    "categoria": "Meme"
+    "categoria": "Principal"
   },
   {
     "pasta": "musicas/scalene/danse-macabre",
     "nome": "Danse Macabre",
     "artista": "Scalene",
-    "categoria": "Rock"
+    "categoria": "Principal"
   },
   {
     "pasta": "musicas/avenged-sevenfold/nobody",
     "nome": "Nobody",
     "artista": "Avenged Sevenfold",
-    "categoria": "Rock"
+    "categoria": "Principal"
   },
   {
     "pasta": "musicas/avenged-sevenfold/god-hates-us",
     "nome": "God Hates Us",
     "artista": "Avenged Sevenfold",
-    "categoria": "Rock"
+    "categoria": "Principal"
   },
   {
     "pasta": "musicas/avenged-sevenfold/carry-on",
     "nome": "Carry On",
     "artista": "Avenged Sevenfold",
-    "categoria": "Rock"
+    "categoria": "Principal"
   },
   {
     "pasta": "musicas/system-of-a-down/lonely-day",
     "nome": "Lonely Day",
     "artista": "System of a Down",
-    "categoria": "Rock"
+    "categoria": "Principal"
   },
   {
     "pasta": "musicas/baroes-da-pisadinha/medley",
@@ -63,13 +63,13 @@
     "pasta": "musicas/warrant/cherry-pie",
     "nome": "Cherry Pie",
     "artista": "Warrant",
-    "categoria": "Rock"
+    "categoria": "Principal"
   },
   {
     "pasta": "musicas/gorillaz/clint-eastwood",
     "nome": "Clint Eastwood",
     "artista": "Gorillaz",
-    "categoria": "Rock"
+    "categoria": "Principal"
   },
   {
     "pasta": "musicas/black-clover/black-catcher",
@@ -77,4 +77,4 @@
     "artista": "Black Clover",
     "categoria": "Geek"
   }
-] 
+]
