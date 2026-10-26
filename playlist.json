@@ -74,8 +74,8 @@
   {
     "pasta": "musicas/michael-sembello/maniac",
     "nome": "Maniac",
-    "nivel": 4,
-    "dificuldade": "Difícil"
+    "artista": "Michael Sembello"
+    "categoria": "Principal"
   },
   {
     "pasta": "musicas/black-clover/black-catcher",
