@@ -2,66 +2,79 @@
   {
     "pasta": "musicas/ac-dc/highway-to-hell",
     "nome": "Highway To Hell",
-    "artista": "AC/DC"
+    "artista": "AC/DC",
+    "categoria": "Rock"
   },
   {
     "pasta": "musicas/black-sabbath/iron-man",
     "nome": "Iron Man",
-    "artista": "Black Sabbath"
+    "artista": "Black Sabbath",
+    "categoria": "Rock"
   },
   {
     "pasta": "musicas/mamonas-assassinas/debil-metal",
     "nome": "Debil Metal",
-    "artista": "Mamonas Assassinas"
+    "artista": "Mamonas Assassinas",
+    "categoria": "Meme"
   },
   {
     "pasta": "musicas/massacration/metal-is-the-law",
     "nome": "Metal Is The Law",
-    "artista": "Massacration"
+    "artista": "Massacration",
+    "categoria": "Meme"
   },
   {
     "pasta": "musicas/scalene/danse-macabre",
     "nome": "Danse Macabre",
-    "artista": "Scalene"
+    "artista": "Scalene",
+    "categoria": "Rock"
   },
   {
     "pasta": "musicas/avenged-sevenfold/nobody",
     "nome": "Nobody",
-    "artista": "Avenged Sevenfold"
+    "artista": "Avenged Sevenfold",
+    "categoria": "Rock"
   },
   {
     "pasta": "musicas/avenged-sevenfold/god-hates-us",
     "nome": "God Hates Us",
-    "artista": "Avenged Sevenfold"
+    "artista": "Avenged Sevenfold",
+    "categoria": "Rock"
   },
   {
     "pasta": "musicas/avenged-sevenfold/carry-on",
     "nome": "Carry On",
-    "artista": "Avenged Sevenfold"
+    "artista": "Avenged Sevenfold",
+    "categoria": "Rock"
   },
   {
     "pasta": "musicas/system-of-a-down/lonely-day",
     "nome": "Lonely Day",
-    "artista": "System of a Down"
+    "artista": "System of a Down",
+    "categoria": "Rock"
   },
   {
     "pasta": "musicas/baroes-da-pisadinha/medley",
     "nome": "Solos Medley",
-    "artista": "Baroes Da Pisadinha"
+    "artista": "Baroes Da Pisadinha",
+    "categoria": "Meme"
   },
   {
     "pasta": "musicas/warrant/cherry-pie",
     "nome": "Cherry Pie",
-    "artista": "Warrant"
+    "artista": "Warrant",
+    "categoria": "Rock"
   },
   {
     "pasta": "musicas/gorillaz/clint-eastwood",
     "nome": "Clint Eastwood",
-    "artista": "Gorillaz"
+    "artista": "Gorillaz",
+    "categoria": "Rock"
   },
   {
     "pasta": "musicas/black-clover/black-catcher",
     "nome": "Black Catcher",
-    "artista": "Black Clover"
+    "artista": "Black Clover",
+    "categoria": "Geek"
   }
 ]
