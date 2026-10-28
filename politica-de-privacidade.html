@@ -1,0 +1,137 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>GuitarBlet – Política de Privacidade</title>
+<style>
+  :root { --fundo:#ffffff; --texto:#1b1b1f; --suave:#5b5b66; --acento:#e11d1d; --caixa:#f5f5f7; color-scheme: light dark; }
+  @media (prefers-color-scheme: dark) { :root { --fundo:#14141a; --texto:#ececf1; --suave:#a0a0ad; --caixa:#1f1f28; } }
+  body { margin:0; background:var(--fundo); color:var(--texto); font:16px/1.65 system-ui, -apple-system, "Segoe UI", Roboto, sans-serif; }
+  main { max-width:760px; margin:0 auto; padding:32px 20px 64px; }
+  h1 { font-size:1.8rem; margin:0 0 4px; } h1 span { color:var(--acento); }
+  h2 { font-size:1.2rem; margin:32px 0 8px; border-left:4px solid var(--acento); padding-left:10px; }
+  p, li { margin:8px 0; } ul { padding-left:22px; }
+  .meta { color:var(--suave); font-size:.9rem; }
+  table { border-collapse:collapse; width:100%; font-size:.92rem; display:block; overflow-x:auto; }
+  th, td { text-align:left; padding:8px 10px; border-bottom:1px solid var(--caixa); vertical-align:top; }
+  th { background:var(--caixa); }
+  .caixa { background:var(--caixa); border-radius:8px; padding:12px 16px; }
+  hr { border:0; border-top:2px solid var(--caixa); margin:48px 0 8px; }
+  a { color:var(--acento); }
+</style>
+</head>
+<body>
+<main>
+
+<h1>Guitar<span>Blet</span> – Política de Privacidade</h1>
+<p class="meta">Última atualização: 27 de outubro de 2026 · <a href="#english">English version below</a></p>
+
+<p>O GuitarBlet é uma extensão de navegador que adiciona um jogo de ritmo ao Habblet (<code>habblet.com.br</code> e <code>habblet.city</code>). Esta política explica quais dados a extensão usa, para quê e como pedir a exclusão. A extensão é independente e não é afiliada ao Habblet.</p>
+
+<div class="caixa"><strong>Resumo:</strong> usamos apenas o seu <em>nickname do Habblet</em> e os dados do jogo (pontos, nível, guitarra escolhida) para o multiplayer, os duelos e o seu perfil. Não vendemos dados, não há anúncios, não há rastreamento nem análise de uso, e a extensão não lê suas senhas, conversas ou histórico de navegação.</div>
+
+<h2>1. Quais dados são usados</h2>
+<ul>
+  <li><strong>Nickname do Habblet.</strong> A extensão lê, no navegador, o pacote com as informações do seu usuário que o próprio site recebe ao entrar, e usa <em>somente o nickname</em>. Os demais campos desse pacote são ignorados e nunca armazenados nem enviados.</li>
+  <li><strong>Identificador anônimo.</strong> Cada instalação cria um login anônimo no Firebase Authentication (Google). Ele gera um identificador aleatório que não contém nome, e-mail ou telefone.</li>
+  <li><strong>Dados do jogo.</strong> Pontos, número de partidas, acertos (perfeitos, bons, perdidas), precisão, maior combo, melhor pontuação, melhor faixa, guitarra escolhida, nível e dificuldade.</li>
+  <li><strong>Presença em sala e duelos.</strong> Enquanto você está numa sala multiplayer ou em um duelo: nickname, nível, guitarra, música e dificuldade, se está tocando, e o placar em tempo real (pontos, combo, acertos).</li>
+  <li><strong>Preferências locais.</strong> Ajustes, dificuldade, guitarra escolhida, perfil e uma cópia do catálogo de guitarras ficam no armazenamento local do navegador (<code>localStorage</code> do site) para o jogo abrir rápido e funcionar offline. Não saem do seu computador, exceto o que está descrito acima.</li>
+</ul>
+<p>As teclas que você aperta no jogo são processadas somente no seu computador e <strong>não</strong> são gravadas nem enviadas.</p>
+
+<h2>2. Para que usamos</h2>
+<ul>
+  <li>Mostrar jogadores nas salas, permitir assistir e desafiar outros jogadores e exibir o placar dos duelos.</li>
+  <li>Salvar e restaurar o seu progresso (nível, pontos, estatísticas).</li>
+  <li>Impedir trapaças e abusos (por exemplo, suspender jogadores que violem as regras).</li>
+  <li>Exibir avisos do desenvolvedor e atualizar o catálogo de guitarras.</li>
+</ul>
+<p>Não usamos os dados para publicidade, perfilamento, venda a terceiros ou qualquer finalidade alheia ao funcionamento do jogo.</p>
+
+<h2>3. Onde os dados ficam e quem tem acesso</h2>
+<table>
+  <tr><th>Serviço</th><th>O que acontece</th></tr>
+  <tr><td>Firebase (Google) – Realtime Database e Authentication</td><td>Guarda o login anônimo, perfis, presença em salas e duelos. O Google processa esses dados e vê o endereço IP das conexões, como em qualquer serviço na internet.</td></tr>
+  <tr><td>GitHub (<code>raw.githubusercontent.com</code>)</td><td>A extensão apenas <em>baixa</em> a lista de músicas, as partituras e os áudios. Nenhum dado seu é enviado ao GitHub, mas o GitHub vê o IP da requisição.</td></tr>
+  <tr><td>Outros jogadores</td><td>Quem está na mesma sala vê seu nickname, nível, guitarra e desempenho na partida. Seu perfil completo e a lista de jogadores só podem ser lidos pelo desenvolvedor.</td></tr>
+  <tr><td><code>chrome.storage.local</code></td><td>Guarda o token de renovação do login anônimo. Fica acessível apenas à extensão, não ao site.</td></tr>
+</table>
+<p>Não há servidores próprios, e nenhum dado é vendido ou compartilhado com anunciantes ou corretores de dados.</p>
+
+<h2>4. Por quanto tempo guardamos</h2>
+<ul>
+  <li><strong>Presença em sala e convites de duelo:</strong> removidos quando você sai ou fecha a aba, e descartados automaticamente quando ficam inativos ou vencem.</li>
+  <li><strong>Perfil e estatísticas:</strong> mantidos enquanto a conta do jogo existir ou até você pedir a exclusão.</li>
+  <li><strong>Dados locais:</strong> ficam no seu navegador até você limpar os dados do site ou remover a extensão.</li>
+</ul>
+
+<h2>5. Permissões da extensão</h2>
+<ul>
+  <li><strong>Acesso a <code>habblet.com.br</code> e <code>habblet.city</code>:</strong> é onde o jogo roda.</li>
+  <li><strong>Acesso ao Firebase:</strong> multiplayer, perfil e avisos.</li>
+  <li><strong>storage:</strong> guardar o login anônimo da instalação.</li>
+  <li><strong>scripting:</strong> reativar o jogo nas abas do Habblet já abertas logo após instalar ou atualizar a extensão, sem exigir que você recarregue a página.</li>
+</ul>
+<p>A extensão não executa código baixado da internet: tudo o que roda vem empacotado nela. O que é baixado (músicas, partituras, áudio, catálogo de guitarras) são apenas dados.</p>
+
+<h2>6. Seus direitos e exclusão de dados</h2>
+<p>Você pode pedir acesso, correção ou exclusão do seu perfil e dos dados ligados ao seu nickname a qualquer momento, pelo contato abaixo. Para apagar os dados locais, limpe os dados do site Habblet no navegador ou remova a extensão. Para que o login anônimo deixe de ser reutilizado, remova a extensão.</p>
+
+<h2>7. Crianças</h2>
+<p>A extensão não pede idade, e-mail, telefone nem qualquer dado além do nickname já usado no Habblet. Os dados descritos acima são os únicos tratados, inclusive para usuários jovens. Responsáveis podem pedir a exclusão dos dados de um menor pelo contato abaixo.</p>
+
+<h2>8. Segurança</h2>
+<p>As conexões usam HTTPS. O acesso ao banco é restrito por regras de segurança do Firebase: cada instalação só altera os próprios dados, e as áreas administrativas só aceitam o desenvolvedor.</p>
+
+<h2>9. Mudanças nesta política</h2>
+<p>Se a extensão passar a tratar dados de outra forma, esta página será atualizada e a data acima mudará.</p>
+
+<h2>10. Contato</h2>
+<p>Desenvolvedor: <strong>Janiocfilho</strong> · Discord: <a href="https://discord.com/users/828430655750406164" rel="noopener">discord.com/users/828430655750406164</a> · GitHub: <a href="https://github.com/Janiocfilho/guitarblet" rel="noopener">github.com/Janiocfilho/guitarblet</a></p>
+
+<hr>
+
+<div id="english" lang="en">
+<h1>Guitar<span>Blet</span> – Privacy Policy</h1>
+<p class="meta">Last updated: October 27, 2026</p>
+
+<p>GuitarBlet is a browser extension that adds a rhythm game to Habblet (<code>habblet.com.br</code> and <code>habblet.city</code>). It is independent and not affiliated with Habblet.</p>
+
+<div class="caixa"><strong>Summary:</strong> the extension uses only your <em>Habblet nickname</em> and game data (score, level, chosen guitar) to power multiplayer, duels and your profile. We do not sell data, show ads, track you or run analytics, and the extension does not read your passwords, chats or browsing history.</div>
+
+<h2>Data we use</h2>
+<ul>
+  <li><strong>Habblet nickname</strong>, read locally from the user-info packet the site itself receives at login. Only the nickname is used; other fields in that packet are ignored and never stored or sent.</li>
+  <li><strong>Anonymous identifier</strong> from Firebase Authentication (random ID; no name, email or phone).</li>
+  <li><strong>Game data:</strong> points, matches, accuracy, best combo and score, chosen guitar, level, difficulty.</li>
+  <li><strong>Room and duel presence:</strong> nickname, level, guitar, song, difficulty and live score while you are in a room or duel.</li>
+  <li><strong>Local preferences</strong> stored in the browser (<code>localStorage</code>); they stay on your computer.</li>
+</ul>
+<p>Keystrokes made while playing are processed locally only and are never recorded or sent.</p>
+
+<h2>Purpose</h2>
+<p>Multiplayer rooms and duels, saving your progress, anti-cheat and moderation, developer announcements and the guitar catalog. Data is never used for advertising, profiling or sold to third parties.</p>
+
+<h2>Where data is stored</h2>
+<ul>
+  <li><strong>Firebase (Google):</strong> anonymous login, profiles, room presence and duels. Google sees connection IP addresses.</li>
+  <li><strong>GitHub:</strong> the extension only downloads song lists, charts and audio; nothing about you is uploaded.</li>
+  <li><strong>Other players</strong> in the same room can see your nickname, level, guitar and match performance. Full profiles and the player list are readable only by the developer.</li>
+  <li><strong><code>chrome.storage.local</code></strong> holds the anonymous-login refresh token, accessible only to the extension.</li>
+</ul>
+
+<h2>Retention and deletion</h2>
+<p>Room presence and duel invites are removed when you leave or become inactive. Profiles are kept until you ask for deletion. To request access, correction or deletion (including on behalf of a minor), contact the developer below. Removing the extension and clearing the site's data removes all local data.</p>
+
+<h2>Permissions and remote code</h2>
+<p>Host access to the Habblet domains (where the game runs) and Firebase (multiplayer); <code>storage</code> (anonymous login token); <code>scripting</code> (re-activate the game in already-open Habblet tabs right after install/update). The extension does not execute remotely hosted code; downloaded content is data only.</p>
+
+<h2>Contact</h2>
+<p>Developer: <strong>Janiocfilho</strong> · Discord: <a href="https://discord.com/users/828430655750406164" rel="noopener">discord.com/users/828430655750406164</a> · GitHub: <a href="https://github.com/Janiocfilho/guitarblet" rel="noopener">github.com/Janiocfilho/guitarblet</a></p>
+</div>
+
+</main>
+</body>
+</html>
