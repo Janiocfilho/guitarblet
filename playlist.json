@@ -190,5 +190,11 @@
     "nome": "N.I.B.",
     "artista": "Black Sabbath",
     "categoria": "Principal"
+  },
+  {
+    "pasta": "musicas/taylor-swift/state-of-grace",
+    "nome": "State of Grace",
+    "artista": "Taylor Swift",
+    "categoria": "Principal"
   }
 ]
