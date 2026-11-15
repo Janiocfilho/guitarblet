@@ -124,5 +124,11 @@
     "nome": "Sweet Child o Mine",
     "artista": "Guns N Roses",
     "categoria": "Principal"
+  },
+  {
+    "pasta": "musicas/avenged-sevenfold/the-stage",
+    "nome": "The Stage",
+    "artista": "Avenged Sevenfold",
+    "categoria": "Principal"
   }
 ]
