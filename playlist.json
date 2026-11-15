@@ -202,5 +202,11 @@
     "nome": "Better Than Revenge",
     "artista": "Taylor Swift",
     "categoria": "Principal"
+  },
+  {
+    "pasta": "musicas/taylor-swift/red",
+    "nome": "Red",
+    "artista": "Taylor Swift",
+    "categoria": "Principal"
   }
 ]
