@@ -172,5 +172,11 @@
     "nome": "This I Love",
     "artista": "Guns N Roses",
     "categoria": "Principal"
+  },
+  {
+    "pasta": "musicas/guns-n-roses/paradise-city",
+    "nome": "Paradise City",
+    "artista": "Guns N Roses",
+    "categoria": "Principal"
   }
 ]
