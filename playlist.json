@@ -208,5 +208,11 @@
     "nome": "Red",
     "artista": "Taylor Swift",
     "categoria": "Principal"
+  },
+  {
+    "pasta": "musicas/gorillaz/feel-good-inc",
+    "nome": "Feel Good Inc.",
+    "artista": "Gorillaz",
+    "categoria": "Principal"
   }
 ]
