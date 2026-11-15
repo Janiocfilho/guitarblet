@@ -172,5 +172,11 @@
     "nome": "Paradise City",
     "artista": "Guns N Roses",
     "categoria": "Principal"
+  },
+  {
+    "pasta": "musicas/guns-n-roses/welcome-to-the-jungle",
+    "nome": "Welcome to the Jungle",
+    "artista": "Guns N Roses",
+    "categoria": "Principal"
   }
 ]
