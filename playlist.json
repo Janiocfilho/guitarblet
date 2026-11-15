@@ -142,5 +142,11 @@
     "nome": "Zombie",
     "artista": "Bad Wolves",
     "categoria": "Principal"
+  },
+  {
+    "pasta": "musicas/ac-dc/thunderstruck",
+    "nome": "Thunderstruck",
+    "artista": "AC/DC",
+    "categoria": "Principal"
   }
 ]
