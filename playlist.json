@@ -166,5 +166,11 @@
     "nome": "November Rain",
     "artista": "Guns N Roses",
     "categoria": "Principal"
+  },
+  {
+    "pasta": "musicas/guns-n-roses/this-i-love",
+    "nome": "This I Love",
+    "artista": "Guns N Roses",
+    "categoria": "Principal"
   }
 ]
