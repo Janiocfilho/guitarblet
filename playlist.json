@@ -214,5 +214,11 @@
     "nome": "Feel Good Inc.",
     "artista": "Gorillaz",
     "categoria": "Principal"
+  },
+  {
+    "pasta": "musicas/metallica/enter-sandman",
+    "nome": "Enter Sandman",
+    "artista": "Metallica",
+    "categoria": "Principal"
   }
 ]
