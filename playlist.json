@@ -160,5 +160,11 @@
     "nome": "Relentless Game",
     "artista": "Far From Alaska",
     "categoria": "Principal"
+  },
+  {
+    "pasta": "musicas/guns-n-roses/november-rain",
+    "nome": "November Rain",
+    "artista": "Guns N Roses",
+    "categoria": "Principal"
   }
 ]
