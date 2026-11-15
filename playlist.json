@@ -196,5 +196,11 @@
     "nome": "State of Grace",
     "artista": "Taylor Swift",
     "categoria": "Principal"
+  },
+  {
+    "pasta": "musicas/taylor-swift/better-than-revenge",
+    "nome": "Better Than Revenge",
+    "artista": "Taylor Swift",
+    "categoria": "Principal"
   }
 ]
