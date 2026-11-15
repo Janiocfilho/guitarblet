@@ -100,5 +100,11 @@
     "nome": "Cherry Pie",
     "artista": "Warrant",
     "categoria": "Principal"
+  },
+  {
+    "pasta": "musicas/skillet/not-gonna-die",
+    "nome": "Not Gonna Die",
+    "artista": "Skillet",
+    "categoria": "Principal"
   }
 ]
