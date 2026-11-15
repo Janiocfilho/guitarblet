@@ -154,5 +154,11 @@
     "nome": "War Machine",
     "artista": "AC/DC",
     "categoria": "Principal"
+  },
+  {
+    "pasta": "musicas/far-from-alaska/relentless-game",
+    "nome": "Relentless Game",
+    "artista": "Far From Alaska",
+    "categoria": "Principal"
   }
 ]
