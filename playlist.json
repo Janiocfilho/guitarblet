@@ -220,5 +220,11 @@
     "nome": "Enter Sandman",
     "artista": "Metallica",
     "categoria": "Principal"
+  },
+  {
+    "pasta": "musicas/linkin-park/numb",
+    "nome": "Numb",
+    "artista": "Linkin Park",
+    "categoria": "Principal"
   }
 ]
