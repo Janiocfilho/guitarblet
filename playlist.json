@@ -148,5 +148,11 @@
     "nome": "Thunderstruck",
     "artista": "AC/DC",
     "categoria": "Principal"
+  },
+  {
+    "pasta": "musicas/ac-dc/war-machine",
+    "nome": "War Machine",
+    "artista": "AC/DC",
+    "categoria": "Principal"
   }
 ]
