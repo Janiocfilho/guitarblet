@@ -118,5 +118,11 @@
     "nome": "Tornado of Souls",
     "artista": "Megadeth",
     "categoria": "Principal"
+  },
+  {
+    "pasta": "musicas/guns-n-roses/sweet-child-o-mine",
+    "nome": "Sweet Child o Mine",
+    "artista": "Guns N Roses",
+    "categoria": "Principal"
   }
 ]
