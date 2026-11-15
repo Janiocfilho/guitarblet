@@ -130,5 +130,11 @@
     "nome": "The Stage",
     "artista": "Avenged Sevenfold",
     "categoria": "Principal"
+  },
+  {
+    "pasta": "musicas/edu-falaschi/pegasus-fantasy-ultimate",
+    "nome": "Pegasus Fantasy Ultimate",
+    "artista": "Edu Falaschi",
+    "categoria": "Geek"
   }
 ]
