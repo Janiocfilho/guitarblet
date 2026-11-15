@@ -226,5 +226,11 @@
     "nome": "Numb",
     "artista": "Linkin Park",
     "categoria": "Principal"
+  },
+  {
+    "pasta": "musicas/michael-jackson/thriller",
+    "nome": "Thriller",
+    "artista": "Michael Jackson",
+    "categoria": "Principal"
   }
 ]
