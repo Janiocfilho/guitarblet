@@ -238,5 +238,11 @@
     "nome": "Megalo Strike Back",
     "artista": "Toby Fox",
     "categoria": "Geek"
+  },
+  {
+    "pasta": "musicas/metallica/master-of-puppets",
+    "nome": "Master of Puppets",
+    "artista": "Metallica",
+    "categoria": "Principal"
   }
 ]
