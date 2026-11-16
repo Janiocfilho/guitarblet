@@ -232,5 +232,11 @@
     "nome": "Thriller",
     "artista": "Michael Jackson",
     "categoria": "Principal"
+  },
+  {
+    "pasta": "musicas/toby-fox/megalo-strike-back",
+    "nome": "Megalo Strike Back",
+    "artista": "Toby Fox",
+    "categoria": "Geek"
   }
 ]
