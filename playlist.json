@@ -274,5 +274,11 @@
     "nome": "Feel Invincible",
     "artista": "Skillet",
     "categoria": "Principal"
+  },
+  {
+    "pasta": "musicas/skillet/awake-and-alive",
+    "nome": "Awake and Alive",
+    "artista": "Skillet",
+    "categoria": "Principal"
   }
 ]
