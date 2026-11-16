@@ -268,5 +268,11 @@
     "nome": "Monster",
     "artista": "Skillet",
     "categoria": "Principal"
+  },
+  {
+    "pasta": "musicas/skillet/feel-invincible",
+    "nome": "Feel Invincible",
+    "artista": "Skillet",
+    "categoria": "Principal"
   }
 ]
