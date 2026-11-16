@@ -262,5 +262,11 @@
     "nome": "Smooth Criminal",
     "artista": "Michael Jackson",
     "categoria": "Principal"
+  },
+  {
+    "pasta": "musicas/skillet/monster",
+    "nome": "Monster",
+    "artista": "Skillet",
+    "categoria": "Principal"
   }
 ]
