@@ -256,5 +256,11 @@
     "nome": "Chicago",
     "artista": "Michael Jackson",
     "categoria": "Principal"
+  },
+  {
+    "pasta": "musicas/michael-jackson/smooth-criminal",
+    "nome": "Smooth Criminal",
+    "artista": "Michael Jackson",
+    "categoria": "Principal"
   }
 ]
