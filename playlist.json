@@ -244,5 +244,11 @@
     "nome": "Master of Puppets",
     "artista": "Metallica",
     "categoria": "Principal"
+  },
+  {
+    "pasta": "musicas/metallica/fade-to-black",
+    "nome": "Fade to Black",
+    "artista": "Metallica",
+    "categoria": "Principal"
   }
 ]
