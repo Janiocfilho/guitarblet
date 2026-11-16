@@ -250,5 +250,11 @@
     "nome": "Fade to Black",
     "artista": "Metallica",
     "categoria": "Principal"
+  },
+  {
+    "pasta": "musicas/michael-jackson/chicago",
+    "nome": "Chicago",
+    "artista": "Michael Jackson",
+    "categoria": "Principal"
   }
 ]
