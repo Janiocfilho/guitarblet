@@ -280,5 +280,11 @@
     "nome": "Awake and Alive",
     "artista": "Skillet",
     "categoria": "Principal"
+  },
+  {
+    "pasta": "musicas/muse/supermassive-black-hole",
+    "nome": "Supermassive Black Hole",
+    "artista": "Muse",
+    "categoria": "Principal"
   }
 ]
