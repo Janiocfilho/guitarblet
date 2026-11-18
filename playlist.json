@@ -292,5 +292,11 @@
     "nome": "Go Go Power Rangers",
     "artista": "Mighty Morphin",
     "categoria": "Geek"
+  },
+  {
+    "pasta": "musicas/fall-out-boy/centuries",
+    "nome": "Centuries",
+    "artista": "Fall Out Boy",
+    "categoria": "Principal"
   }
 ]
