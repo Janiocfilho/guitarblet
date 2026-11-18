@@ -442,5 +442,11 @@
     "nome": "Its My Life",
     "artista": "Bon Jovi",
     "categoria": "Principal"
+  },
+  {
+    "pasta": "musicas/bon-jovi/livin-on-a-prayer-rb3-version",
+    "nome": "Livin on a Prayer RB3 version",
+    "artista": "Bon Jovi",
+    "categoria": "Principal"
   }
 ]
