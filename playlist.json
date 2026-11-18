@@ -388,5 +388,11 @@
     "nome": "Heavy Is The Crown",
     "artista": "Linkin Park",
     "categoria": "Principal"
+  },
+  {
+    "pasta": "musicas/linkin-park/the-emptiness-machine",
+    "nome": "The Emptiness Machine",
+    "artista": "Linkin Park",
+    "categoria": "Principal"
   }
 ]
