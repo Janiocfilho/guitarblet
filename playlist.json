@@ -358,5 +358,11 @@
     "nome": "Lying from You",
     "artista": "Linkin Park",
     "categoria": "Principal"
+  },
+  {
+    "pasta": "musicas/linkin-park/one-step-closer",
+    "nome": "One Step Closer",
+    "artista": "Linkin Park",
+    "categoria": "Principal"
   }
 ]
