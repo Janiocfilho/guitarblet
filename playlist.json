@@ -412,5 +412,11 @@
     "nome": "Aerials",
     "artista": "System of a Down",
     "categoria": "Principal"
+  },
+  {
+    "pasta": "musicas/solence/phoenix",
+    "nome": "Phoenix",
+    "artista": "Solence",
+    "categoria": "Principal"
   }
 ]
