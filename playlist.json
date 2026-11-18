@@ -448,5 +448,11 @@
     "nome": "Livin on a Prayer RB3 version",
     "artista": "Bon Jovi",
     "categoria": "Principal"
+  },
+  {
+    "pasta": "musicas/bon-jovi/you-give-love-a-bad-name",
+    "nome": "You Give Love a Bad Name",
+    "artista": "Bon Jovi",
+    "categoria": "Principal"
   }
 ]
