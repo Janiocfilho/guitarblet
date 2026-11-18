@@ -322,5 +322,11 @@
     "nome": "Canon Rock",
     "artista": "JerryC",
     "categoria": "Geek"
+  },
+  {
+    "pasta": "musicas/pentakill/deathfire-grasp",
+    "nome": "Deathfire Grasp",
+    "artista": "Pentakill",
+    "categoria": "Principal"
   }
 ]
