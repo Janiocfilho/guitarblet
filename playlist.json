@@ -436,5 +436,11 @@
     "nome": "Take Over",
     "artista": "Solence",
     "categoria": "Principal"
+  },
+  {
+    "pasta": "musicas/bon-jovi/its-my-life",
+    "nome": "Its My Life",
+    "artista": "Bon Jovi",
+    "categoria": "Principal"
   }
 ]
