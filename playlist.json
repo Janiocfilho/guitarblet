@@ -424,5 +424,11 @@
     "nome": "Sugar",
     "artista": "System of a Down",
     "categoria": "Principal"
+  },
+  {
+    "pasta": "musicas/solence/legends-never-die",
+    "nome": "Legends Never Die",
+    "artista": "Solence",
+    "categoria": "Principal"
   }
 ]
