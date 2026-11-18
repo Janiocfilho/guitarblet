@@ -394,5 +394,11 @@
     "nome": "The Emptiness Machine",
     "artista": "Linkin Park",
     "categoria": "Principal"
+  },
+  {
+    "pasta": "musicas/lynyrd-skynyrd/free-bird",
+    "nome": "Free Bird",
+    "artista": "Lynyrd Skynyrd",
+    "categoria": "Principal"
   }
 ]
