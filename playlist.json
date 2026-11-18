@@ -376,5 +376,11 @@
     "nome": "Somewhere I Belong",
     "artista": "Linkin Park",
     "categoria": "Principal"
+  },
+  {
+    "pasta": "musicas/linkin-park/given-up",
+    "nome": "Given Up",
+    "artista": "Linkin Park",
+    "categoria": "Principal"
   }
 ]
