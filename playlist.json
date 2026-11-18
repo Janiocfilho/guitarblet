@@ -298,5 +298,11 @@
     "nome": "Centuries",
     "artista": "Fall Out Boy",
     "categoria": "Principal"
+  },
+  {
+    "pasta": "musicas/fall-out-boy/beat-it-feat-john-mayer",
+    "nome": "Beat It feat. John Mayer",
+    "artista": "Fall Out Boy",
+    "categoria": "Principal"
   }
 ]
