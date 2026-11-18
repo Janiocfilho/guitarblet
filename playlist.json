@@ -340,5 +340,11 @@
     "nome": "Lightbringer",
     "artista": "Pentakill",
     "categoria": "Principal"
+  },
+  {
+    "pasta": "musicas/avenged-sevenfold/almost-easy",
+    "nome": "Almost Easy",
+    "artista": "Avenged Sevenfold",
+    "categoria": "Principal"
   }
 ]
