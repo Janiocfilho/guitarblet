@@ -328,5 +328,11 @@
     "nome": "Deathfire Grasp",
     "artista": "Pentakill",
     "categoria": "Principal"
+  },
+  {
+    "pasta": "musicas/pentakill/last-whisper",
+    "nome": "Last Whisper",
+    "artista": "Pentakill",
+    "categoria": "Principal"
   }
 ]
