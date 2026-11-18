@@ -400,5 +400,11 @@
     "nome": "Free Bird",
     "artista": "Lynyrd Skynyrd",
     "categoria": "Principal"
+  },
+  {
+    "pasta": "musicas/disturbed/stricken",
+    "nome": "Stricken",
+    "artista": "Disturbed",
+    "categoria": "Principal"
   }
 ]
