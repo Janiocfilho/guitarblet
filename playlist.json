@@ -364,5 +364,11 @@
     "nome": "One Step Closer",
     "artista": "Linkin Park",
     "categoria": "Principal"
+  },
+  {
+    "pasta": "musicas/linkin-park/crawling",
+    "nome": "Crawling",
+    "artista": "Linkin Park",
+    "categoria": "Principal"
   }
 ]
