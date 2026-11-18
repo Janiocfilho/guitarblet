@@ -406,5 +406,11 @@
     "nome": "Stricken",
     "artista": "Disturbed",
     "categoria": "Principal"
+  },
+  {
+    "pasta": "musicas/system-of-a-down/aerials",
+    "nome": "Aerials",
+    "artista": "System of a Down",
+    "categoria": "Principal"
   }
 ]
