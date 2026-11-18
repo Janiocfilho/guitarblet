@@ -304,5 +304,11 @@
     "nome": "Beat It feat. John Mayer",
     "artista": "Fall Out Boy",
     "categoria": "Principal"
+  },
+  {
+    "pasta": "musicas/living-colour/cult-of-personality",
+    "nome": "Cult Of Personality",
+    "artista": "Living Colour",
+    "categoria": "Principal"
   }
 ]
