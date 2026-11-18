@@ -346,5 +346,11 @@
     "nome": "Almost Easy",
     "artista": "Avenged Sevenfold",
     "categoria": "Principal"
+  },
+  {
+    "pasta": "musicas/avenged-sevenfold/nightmare",
+    "nome": "Nightmare",
+    "artista": "Avenged Sevenfold",
+    "categoria": "Principal"
   }
 ]
