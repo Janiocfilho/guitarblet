@@ -370,5 +370,11 @@
     "nome": "Crawling",
     "artista": "Linkin Park",
     "categoria": "Principal"
+  },
+  {
+    "pasta": "musicas/linkin-park/somewhere-i-belong",
+    "nome": "Somewhere I Belong",
+    "artista": "Linkin Park",
+    "categoria": "Principal"
   }
 ]
