@@ -430,5 +430,11 @@
     "nome": "Legends Never Die",
     "artista": "Solence",
     "categoria": "Principal"
+  },
+  {
+    "pasta": "musicas/solence/take-over",
+    "nome": "Take Over",
+    "artista": "Solence",
+    "categoria": "Principal"
   }
 ]
