@@ -352,5 +352,11 @@
     "nome": "Nightmare",
     "artista": "Avenged Sevenfold",
     "categoria": "Principal"
+  },
+  {
+    "pasta": "musicas/linkin-park/lying-from-you",
+    "nome": "Lying from You",
+    "artista": "Linkin Park",
+    "categoria": "Principal"
   }
 ]
