@@ -454,5 +454,11 @@
     "nome": "You Give Love a Bad Name",
     "artista": "Bon Jovi",
     "categoria": "Principal"
+  },
+  {
+    "pasta": "musicas/system-of-a-down/sad-statue",
+    "nome": "Sad Statue",
+    "artista": "System of a Down",
+    "categoria": "Principal"
   }
 ]
