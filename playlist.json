@@ -286,5 +286,11 @@
     "nome": "Supermassive Black Hole",
     "artista": "Muse",
     "categoria": "Principal"
+  },
+  {
+    "pasta": "musicas/mighty-morphin/go-go-power-rangers",
+    "nome": "Go Go Power Rangers",
+    "artista": "Mighty Morphin",
+    "categoria": "Geek"
   }
 ]
