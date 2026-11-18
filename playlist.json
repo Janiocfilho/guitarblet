@@ -334,5 +334,11 @@
     "nome": "Last Whisper",
     "artista": "Pentakill",
     "categoria": "Principal"
+  },
+  {
+    "pasta": "musicas/pentakill/lightbringer",
+    "nome": "Lightbringer",
+    "artista": "Pentakill",
+    "categoria": "Principal"
   }
 ]
