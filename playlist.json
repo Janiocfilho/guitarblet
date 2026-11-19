@@ -460,5 +460,11 @@
     "nome": "Sad Statue",
     "artista": "System of a Down",
     "categoria": "Principal"
+  },
+  {
+    "pasta": "musicas/avenged-sevenfold/cosmic",
+    "nome": "Cosmic",
+    "artista": "Avenged Sevenfold",
+    "categoria": "Principal"
   }
 ]
