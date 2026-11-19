@@ -466,5 +466,11 @@
     "nome": "Cosmic",
     "artista": "Avenged Sevenfold",
     "categoria": "Principal"
+  },
+  {
+    "pasta": "musicas/avenged-sevenfold/afterlife",
+    "nome": "Afterlife",
+    "artista": "Avenged Sevenfold",
+    "categoria": "Principal"
   }
 ]
