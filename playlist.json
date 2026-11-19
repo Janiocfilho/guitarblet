@@ -490,5 +490,11 @@
     "nome": "Creep",
     "artista": "Radiohead",
     "categoria": "Principal"
+  },
+  {
+    "pasta": "musicas/pearl-jam/black",
+    "nome": "Black",
+    "artista": "Pearl Jam",
+    "categoria": "Principal"
   }
 ]
