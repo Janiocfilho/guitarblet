@@ -478,5 +478,11 @@
     "nome": "Even Flow",
     "artista": "Pearl Jam",
     "categoria": "Principal"
+  },
+  {
+    "pasta": "musicas/pearl-jam/alive",
+    "nome": "Alive",
+    "artista": "Pearl Jam",
+    "categoria": "Principal"
   }
 ]
