@@ -496,5 +496,11 @@
     "nome": "Black",
     "artista": "Pearl Jam",
     "categoria": "Principal"
+  },
+  {
+    "pasta": "musicas/pearl-jam/yellow-ledbetter",
+    "nome": "Yellow Ledbetter",
+    "artista": "Pearl Jam",
+    "categoria": "Principal"
   }
 ]
