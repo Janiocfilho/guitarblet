@@ -520,5 +520,11 @@
     "nome": "Lose Yourself",
     "artista": "Eminem",
     "categoria": "Principal"
+  },
+  {
+    "pasta": "musicas/chris-brown/look-at-me-now",
+    "nome": "Look At Me Now",
+    "artista": "Chris Brown",
+    "categoria": "Geek"
   }
 ]
