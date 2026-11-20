@@ -532,5 +532,11 @@
     "nome": "Esporrei na Manivela",
     "artista": "Raimundos",
     "categoria": "Principal"
+  },
+  {
+    "pasta": "musicas/raimundos/infeliz-natal",
+    "nome": "Infeliz Natal",
+    "artista": "Raimundos",
+    "categoria": "Principal"
   }
 ]
