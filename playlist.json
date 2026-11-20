@@ -514,5 +514,11 @@
     "nome": "Godzilla",
     "artista": "Eminem ft. Juice WRLD",
     "categoria": "Principal"
+  },
+  {
+    "pasta": "musicas/eminem/lose-yourself",
+    "nome": "Lose Yourself",
+    "artista": "Eminem",
+    "categoria": "Principal"
   }
 ]
