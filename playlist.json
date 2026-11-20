@@ -550,5 +550,11 @@
     "nome": "Dancing Dead",
     "artista": "Avenged Sevenfold",
     "categoria": "Principal"
+  },
+  {
+    "pasta": "musicas/banda-djavu/o-que-pensa-que-eu-sou",
+    "nome": "O que pensa que eu sou",
+    "artista": "Banda Djavu",
+    "categoria": "Meme"
   }
 ]
