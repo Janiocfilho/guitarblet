@@ -508,5 +508,11 @@
     "nome": "Rap God",
     "artista": "Eminem",
     "categoria": "Principal"
+  },
+  {
+    "pasta": "musicas/eminem-ft-juice-wrld/godzilla",
+    "nome": "Godzilla",
+    "artista": "Eminem ft. Juice WRLD",
+    "categoria": "Principal"
   }
 ]
