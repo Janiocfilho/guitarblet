@@ -538,5 +538,11 @@
     "nome": "Infeliz Natal",
     "artista": "Raimundos",
     "categoria": "Principal"
+  },
+  {
+    "pasta": "musicas/raimundos/eu-quero-ver-o-oco",
+    "nome": "Eu Quero Ver O Oco",
+    "artista": "Raimundos",
+    "categoria": "Principal"
   }
 ]
