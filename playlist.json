@@ -544,5 +544,11 @@
     "nome": "Eu Quero Ver O Oco",
     "artista": "Raimundos",
     "categoria": "Principal"
+  },
+  {
+    "pasta": "musicas/avenged-sevenfold/dancing-dead",
+    "nome": "Dancing Dead",
+    "artista": "Avenged Sevenfold",
+    "categoria": "Principal"
   }
 ]
