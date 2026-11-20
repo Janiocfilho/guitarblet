@@ -556,5 +556,11 @@
     "nome": "O que pensa que eu sou",
     "artista": "Banda Djavu",
     "categoria": "Meme"
+  },
+  {
+    "pasta": "musicas/baroes-da-pisadinha/ja-que-me-ensinou-a-beber",
+    "nome": "Ja Que Me Ensinou a Beber",
+    "artista": "Baroes Da Pisadinha",
+    "categoria": "Meme"
   }
 ]
