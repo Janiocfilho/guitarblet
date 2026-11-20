@@ -526,5 +526,11 @@
     "nome": "Look At Me Now",
     "artista": "Chris Brown",
     "categoria": "Geek"
+  },
+  {
+    "pasta": "musicas/raimundos/esporrei-na-manivela",
+    "nome": "Esporrei na Manivela",
+    "artista": "Raimundos",
+    "categoria": "Principal"
   }
 ]
