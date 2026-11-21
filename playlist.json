@@ -634,5 +634,11 @@
     "nome": "Gunslinger",
     "artista": "Avenged Sevenfold",
     "categoria": "Principal"
+  },
+  {
+    "pasta": "musicas/avenged-sevenfold/m-i-a",
+    "nome": "M.I.A.",
+    "artista": "Avenged Sevenfold",
+    "categoria": "Principal"
   }
 ]
