@@ -598,5 +598,11 @@
     "nome": "Seishun Complex TV Size",
     "artista": "Kessoku Band",
     "categoria": "Anime"
+  },
+  {
+    "pasta": "musicas/kessoku-band/that-band",
+    "nome": "That Band",
+    "artista": "Kessoku Band",
+    "categoria": "Anime"
   }
 ]
