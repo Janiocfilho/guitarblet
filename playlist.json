@@ -580,5 +580,11 @@
     "nome": "Nunca Vai Ser Eu",
     "artista": "Baroes Da Pisadinha",
     "categoria": "Meme"
+  },
+  {
+    "pasta": "musicas/linkin-park/in-pieces",
+    "nome": "In Pieces",
+    "artista": "Linkin Park",
+    "categoria": "Principal"
   }
 ]
