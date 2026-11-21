@@ -586,5 +586,11 @@
     "nome": "In Pieces",
     "artista": "Linkin Park",
     "categoria": "Principal"
+  },
+  {
+    "pasta": "musicas/kessoku-band/if-i-could-become-a-constellation-live-a",
+    "nome": "If I Could Become a Constellation Live a",
+    "artista": "Kessoku Band",
+    "categoria": "Anime"
   }
 ]
