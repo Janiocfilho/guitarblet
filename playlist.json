@@ -616,5 +616,11 @@
     "nome": "Acid Rain",
     "artista": "Avenged Sevenfold",
     "categoria": "Principal"
+  },
+  {
+    "pasta": "musicas/avenged-sevenfold/second-heartbeat",
+    "nome": "Second Heartbeat",
+    "artista": "Avenged Sevenfold",
+    "categoria": "Principal"
   }
 ]
