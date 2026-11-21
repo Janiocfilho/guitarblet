@@ -718,5 +718,11 @@
     "nome": "Ride Into The Storm",
     "artista": "Angra",
     "categoria": "Principal"
+  },
+  {
+    "pasta": "musicas/angra/rebirth",
+    "nome": "Rebirth",
+    "artista": "Angra",
+    "categoria": "Principal"
   }
 ]
