@@ -724,5 +724,11 @@
     "nome": "Rebirth",
     "artista": "Angra",
     "categoria": "Principal"
+  },
+  {
+    "pasta": "musicas/angra/awake-from-darkness",
+    "nome": "Awake From Darkness",
+    "artista": "Angra",
+    "categoria": "Principal"
   }
 ]
