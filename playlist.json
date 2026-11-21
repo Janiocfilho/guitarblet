@@ -610,5 +610,11 @@
     "nome": "Hail to the King",
     "artista": "Avenged Sevenfold",
     "categoria": "Principal"
+  },
+  {
+    "pasta": "musicas/avenged-sevenfold/acid-rain",
+    "nome": "Acid Rain",
+    "artista": "Avenged Sevenfold",
+    "categoria": "Principal"
   }
 ]
