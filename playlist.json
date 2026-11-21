@@ -652,5 +652,11 @@
     "nome": "Buried Alive",
     "artista": "Avenged Sevenfold",
     "categoria": "Principal"
+  },
+  {
+    "pasta": "musicas/avenged-sevenfold/danger-line",
+    "nome": "Danger Line",
+    "artista": "Avenged Sevenfold",
+    "categoria": "Principal"
   }
 ]
