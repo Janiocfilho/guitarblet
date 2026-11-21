@@ -706,5 +706,11 @@
     "nome": "Knights of Cydonia",
     "artista": "Muse",
     "categoria": "Principal"
+  },
+  {
+    "pasta": "musicas/angra/pegasus-fantasy-dco-pollis-edit",
+    "nome": "Pegasus Fantasy Dco Pollis Edit",
+    "artista": "Angra",
+    "categoria": "Principal"
   }
 ]
