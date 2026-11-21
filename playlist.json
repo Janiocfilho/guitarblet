@@ -664,5 +664,11 @@
     "nome": "Bad Company",
     "artista": "Five Finger Death Punch",
     "categoria": "Principal"
+  },
+  {
+    "pasta": "musicas/skillet/whispers-in-the-dark",
+    "nome": "Whispers In the Dark",
+    "artista": "Skillet",
+    "categoria": "Principal"
   }
 ]
