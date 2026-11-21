@@ -682,5 +682,11 @@
     "nome": "I Apologize",
     "artista": "Five Finger Death Punch",
     "categoria": "Principal"
+  },
+  {
+    "pasta": "musicas/five-finger-death-punch/battle-born",
+    "nome": "Battle Born",
+    "artista": "Five Finger Death Punch",
+    "categoria": "Principal"
   }
 ]
