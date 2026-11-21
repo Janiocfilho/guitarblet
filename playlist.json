@@ -676,5 +676,11 @@
     "nome": "Far From Home",
     "artista": "Five Finger Death Punch",
     "categoria": "Principal"
+  },
+  {
+    "pasta": "musicas/five-finger-death-punch/i-apologize",
+    "nome": "I Apologize",
+    "artista": "Five Finger Death Punch",
+    "categoria": "Principal"
   }
 ]
