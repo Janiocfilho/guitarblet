@@ -694,5 +694,11 @@
     "nome": "Got Your Six",
     "artista": "Five Finger Death Punch",
     "categoria": "Principal"
+  },
+  {
+    "pasta": "musicas/scalene/histeria",
+    "nome": "Histeria",
+    "artista": "Scalene",
+    "categoria": "Principal"
   }
 ]
