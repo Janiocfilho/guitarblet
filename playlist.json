@@ -688,5 +688,11 @@
     "nome": "Battle Born",
     "artista": "Five Finger Death Punch",
     "categoria": "Principal"
+  },
+  {
+    "pasta": "musicas/five-finger-death-punch/got-your-six",
+    "nome": "Got Your Six",
+    "artista": "Five Finger Death Punch",
+    "categoria": "Principal"
   }
 ]
