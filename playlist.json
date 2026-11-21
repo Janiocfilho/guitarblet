@@ -640,5 +640,11 @@
     "nome": "M.I.A.",
     "artista": "Avenged Sevenfold",
     "categoria": "Principal"
+  },
+  {
+    "pasta": "musicas/avenged-sevenfold/bat-country",
+    "nome": "Bat Country",
+    "artista": "Avenged Sevenfold",
+    "categoria": "Principal"
   }
 ]
