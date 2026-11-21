@@ -604,5 +604,11 @@
     "nome": "That Band",
     "artista": "Kessoku Band",
     "categoria": "Anime"
+  },
+  {
+    "pasta": "musicas/avenged-sevenfold/hail-to-the-king",
+    "nome": "Hail to the King",
+    "artista": "Avenged Sevenfold",
+    "categoria": "Principal"
   }
 ]
