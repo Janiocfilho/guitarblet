@@ -700,5 +700,11 @@
     "nome": "Histeria",
     "artista": "Scalene",
     "categoria": "Principal"
+  },
+  {
+    "pasta": "musicas/muse/knights-of-cydonia",
+    "nome": "Knights of Cydonia",
+    "artista": "Muse",
+    "categoria": "Principal"
   }
 ]
