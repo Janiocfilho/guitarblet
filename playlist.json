@@ -622,5 +622,11 @@
     "nome": "Second Heartbeat",
     "artista": "Avenged Sevenfold",
     "categoria": "Principal"
+  },
+  {
+    "pasta": "musicas/avenged-sevenfold/beast-and-the-harlot",
+    "nome": "Beast and the Harlot",
+    "artista": "Avenged Sevenfold",
+    "categoria": "Principal"
   }
 ]
