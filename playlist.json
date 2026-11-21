@@ -730,5 +730,11 @@
     "nome": "Awake From Darkness",
     "artista": "Angra",
     "categoria": "Principal"
+  },
+  {
+    "pasta": "musicas/angra/nova-era",
+    "nome": "Nova Era",
+    "artista": "Angra",
+    "categoria": "Principal"
   }
 ]
