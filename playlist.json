@@ -736,5 +736,11 @@
     "nome": "Nova Era",
     "artista": "Angra",
     "categoria": "Principal"
+  },
+  {
+    "pasta": "musicas/angra/angra-sort-of-discography-solo-medley",
+    "nome": "Angra Sort-Of-Discography Solo Medley",
+    "artista": "Angra",
+    "categoria": "Principal"
   }
 ]
