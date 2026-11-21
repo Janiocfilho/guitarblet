@@ -628,5 +628,11 @@
     "nome": "Beast and the Harlot",
     "artista": "Avenged Sevenfold",
     "categoria": "Principal"
+  },
+  {
+    "pasta": "musicas/avenged-sevenfold/gunslinger",
+    "nome": "Gunslinger",
+    "artista": "Avenged Sevenfold",
+    "categoria": "Principal"
   }
 ]
