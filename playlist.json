@@ -748,5 +748,11 @@
     "nome": "The Rumbling",
     "artista": "SiM",
     "categoria": "Anime"
+  },
+  {
+    "pasta": "musicas/linked-horizon/shinzou-wo-sasageyo",
+    "nome": "Shinzou wo Sasageyo!",
+    "artista": "Linked Horizon",
+    "categoria": "Anime"
   }
 ]
