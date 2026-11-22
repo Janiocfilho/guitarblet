@@ -838,5 +838,11 @@
     "nome": "Billie Jean",
     "artista": "Michael Jackson",
     "categoria": "Principal"
+  },
+  {
+    "pasta": "musicas/disturbed/the-sound-of-silence",
+    "nome": "The Sound of Silence",
+    "artista": "Disturbed",
+    "categoria": "Principal"
   }
 ]
