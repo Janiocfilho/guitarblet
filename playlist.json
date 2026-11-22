@@ -754,5 +754,11 @@
     "nome": "Shinzou wo Sasageyo!",
     "artista": "Linked Horizon",
     "categoria": "Anime"
+  },
+  {
+    "pasta": "musicas/eve/kaikai-kitan",
+    "nome": "Kaikai Kitan",
+    "artista": "Eve",
+    "categoria": "Anime"
   }
 ]
