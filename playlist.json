@@ -760,5 +760,11 @@
     "nome": "Kaikai Kitan",
     "artista": "Eve",
     "categoria": "Anime"
+  },
+  {
+    "pasta": "musicas/masatoshi-ono/departure",
+    "nome": "Departure!",
+    "artista": "Masatoshi Ono",
+    "categoria": "Anime"
   }
 ]
