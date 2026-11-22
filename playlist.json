@@ -844,5 +844,11 @@
     "nome": "The Sound of Silence",
     "artista": "Disturbed",
     "categoria": "Principal"
+  },
+  {
+    "pasta": "musicas/bonnie-tyler/total-eclipse-of-the-heart",
+    "nome": "Total Eclipse of the Heart",
+    "artista": "Bonnie Tyler",
+    "categoria": "Principal"
   }
 ]
