@@ -772,5 +772,11 @@
     "nome": "Black Sabbath",
     "artista": "Black Sabbath",
     "categoria": "Principal"
+  },
+  {
+    "pasta": "musicas/ac-dc/you-shook-me-all-night-long",
+    "nome": "You Shook Me All Night Long",
+    "artista": "AC/DC",
+    "categoria": "Principal"
   }
 ]
