@@ -832,5 +832,11 @@
     "nome": "Evil Papagali",
     "artista": "Massacration",
     "categoria": "Principal"
+  },
+  {
+    "pasta": "musicas/michael-jackson/billie-jean",
+    "nome": "Billie Jean",
+    "artista": "Michael Jackson",
+    "categoria": "Principal"
   }
 ]
