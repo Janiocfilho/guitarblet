@@ -742,5 +742,11 @@
     "nome": "Angra Sort-Of-Discography Solo Medley",
     "artista": "Angra",
     "categoria": "Principal"
+  },
+  {
+    "pasta": "musicas/sim/the-rumbling",
+    "nome": "The Rumbling",
+    "artista": "SiM",
+    "categoria": "Anime"
   }
 ]
