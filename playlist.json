@@ -766,5 +766,11 @@
     "nome": "Departure!",
     "artista": "Masatoshi Ono",
     "categoria": "Anime"
+  },
+  {
+    "pasta": "musicas/black-sabbath/black-sabbath",
+    "nome": "Black Sabbath",
+    "artista": "Black Sabbath",
+    "categoria": "Principal"
   }
 ]
