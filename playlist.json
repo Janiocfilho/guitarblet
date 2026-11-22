@@ -784,5 +784,11 @@
     "nome": "Back in Business",
     "artista": "AC/DC",
     "categoria": "Principal"
+  },
+  {
+    "pasta": "musicas/galneryus/hunting-for-your-dream",
+    "nome": "HUNTING FOR YOUR DREAM",
+    "artista": "Galneryus",
+    "categoria": "Anime"
   }
 ]
