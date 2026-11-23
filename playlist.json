@@ -1,848 +1,848 @@
 [
   {
-    "pasta": "musicas/black-clover/black-catcher",
-    "nome": "Black Catcher",
-    "artista": "Black Clover",
-    "categoria": "Anime"
-  },
-  {
-    "pasta": "musicas/baroes-da-pisadinha/medley",
-    "nome": "Solos Medley",
-    "artista": "Baroes Da Pisadinha",
-    "categoria": "Meme"
+    "pasta": "musicas/ac-dc/back-in-business",
+    "nome": "Back in Business",
+    "artista": "AC/DC",
+    "categoria": "Rock/Metal"
   },
   {
     "pasta": "musicas/ac-dc/highway-to-hell",
     "nome": "Highway To Hell",
     "artista": "AC/DC",
-    "categoria": "Principal"
-  },
-  {
-    "pasta": "musicas/avenged-sevenfold/carry-on",
-    "nome": "Carry On",
-    "artista": "Avenged Sevenfold",
-    "categoria": "Principal"
-  },
-  {
-    "pasta": "musicas/avenged-sevenfold/god-hates-us",
-    "nome": "God Hates Us",
-    "artista": "Avenged Sevenfold",
-    "categoria": "Principal"
-  },
-  {
-    "pasta": "musicas/avenged-sevenfold/nobody",
-    "nome": "Nobody",
-    "artista": "Avenged Sevenfold",
-    "categoria": "Principal"
-  },
-  {
-    "pasta": "musicas/black-sabbath/iron-man",
-    "nome": "Iron Man",
-    "artista": "Black Sabbath",
-    "categoria": "Principal"
-  },
-  {
-    "pasta": "musicas/black-sabbath/paranoid",
-    "nome": "Paranoid",
-    "artista": "Black Sabbath",
-    "categoria": "Principal"
-  },
-  {
-    "pasta": "musicas/gorillaz/clint-eastwood",
-    "nome": "Clint Eastwood",
-    "artista": "Gorillaz",
-    "categoria": "Principal"
-  },
-  {
-    "pasta": "musicas/mamonas-assassinas/debil-metal",
-    "nome": "Debil Metal",
-    "artista": "Mamonas Assassinas",
-    "categoria": "Principal"
-  },
-  {
-    "pasta": "musicas/massacration/metal-is-the-law",
-    "nome": "Metal Is The Law",
-    "artista": "Massacration",
-    "categoria": "Principal"
-  },
-  {
-    "pasta": "musicas/michael-jackson/beat-it",
-    "nome": "Beat It",
-    "artista": "Michael Jackson",
-    "categoria": "Principal"
-  },
-  {
-    "pasta": "musicas/michael-sembello/maniac",
-    "nome": "Maniac",
-    "artista": "Michael Sembello",
-    "categoria": "Principal"
-  },
-  {
-    "pasta": "musicas/scalene/danse-macabre",
-    "nome": "Danse Macabre",
-    "artista": "Scalene",
-    "categoria": "Principal"
-  },
-  {
-    "pasta": "musicas/scalene/sonhador",
-    "nome": "Sonhador",
-    "artista": "Scalene",
-    "categoria": "Principal"
-  },
-  {
-    "pasta": "musicas/system-of-a-down/lonely-day",
-    "nome": "Lonely Day",
-    "artista": "System of a Down",
-    "categoria": "Principal"
-  },
-  {
-    "pasta": "musicas/warrant/cherry-pie",
-    "nome": "Cherry Pie",
-    "artista": "Warrant",
-    "categoria": "Principal"
-  },
-  {
-    "pasta": "musicas/skillet/not-gonna-die",
-    "nome": "Not Gonna Die",
-    "artista": "Skillet",
-    "categoria": "Principal"
-  },
-  {
-    "pasta": "musicas/set-it-off/wolf-in-sheeps-clothing-reborn",
-    "nome": "Wolf In Sheeps Clothing REBORN",
-    "artista": "Set It Off",
-    "categoria": "Principal"
-  },
-  {
-    "pasta": "musicas/megadeth/tornado-of-souls",
-    "nome": "Tornado of Souls",
-    "artista": "Megadeth",
-    "categoria": "Principal"
-  },
-  {
-    "pasta": "musicas/guns-n-roses/sweet-child-o-mine",
-    "nome": "Sweet Child o Mine",
-    "artista": "Guns N Roses",
-    "categoria": "Principal"
-  },
-  {
-    "pasta": "musicas/avenged-sevenfold/the-stage",
-    "nome": "The Stage",
-    "artista": "Avenged Sevenfold",
-    "categoria": "Principal"
-  },
-  {
-    "pasta": "musicas/edu-falaschi/pegasus-fantasy-ultimate",
-    "nome": "Pegasus Fantasy Ultimate",
-    "artista": "Edu Falaschi",
-    "categoria": "Geek"
-  },
-  {
-    "pasta": "musicas/bad-wolves/zombie",
-    "nome": "Zombie cover",
-    "artista": "Bad Wolves",
-    "categoria": "Principal"
+    "categoria": "Rock/Metal"
   },
   {
     "pasta": "musicas/ac-dc/thunderstruck",
     "nome": "Thunderstruck",
     "artista": "AC/DC",
-    "categoria": "Principal"
+    "categoria": "Rock/Metal"
   },
   {
     "pasta": "musicas/ac-dc/war-machine",
     "nome": "War Machine",
     "artista": "AC/DC",
-    "categoria": "Principal"
-  },
-  {
-    "pasta": "musicas/far-from-alaska/relentless-game",
-    "nome": "Relentless Game",
-    "artista": "Far From Alaska",
-    "categoria": "Principal"
-  },
-  {
-    "pasta": "musicas/guns-n-roses/november-rain",
-    "nome": "November Rain",
-    "artista": "Guns N Roses",
-    "categoria": "Principal"
-  },
-  {
-    "pasta": "musicas/guns-n-roses/paradise-city",
-    "nome": "Paradise City",
-    "artista": "Guns N Roses",
-    "categoria": "Principal"
-  },
-  {
-    "pasta": "musicas/guns-n-roses/welcome-to-the-jungle",
-    "nome": "Welcome to the Jungle",
-    "artista": "Guns N Roses",
-    "categoria": "Principal"
-  },
-  {
-    "pasta": "musicas/guns-n-roses/this-i-love",
-    "nome": "This I Love",
-    "artista": "Guns N Roses",
-    "categoria": "Principal"
-  },
-  {
-    "pasta": "musicas/black-sabbath/n-i-b",
-    "nome": "N.I.B.",
-    "artista": "Black Sabbath",
-    "categoria": "Principal"
-  },
-  {
-    "pasta": "musicas/taylor-swift/state-of-grace",
-    "nome": "State of Grace",
-    "artista": "Taylor Swift",
-    "categoria": "Principal"
-  },
-  {
-    "pasta": "musicas/taylor-swift/better-than-revenge",
-    "nome": "Better Than Revenge",
-    "artista": "Taylor Swift",
-    "categoria": "Principal"
-  },
-  {
-    "pasta": "musicas/taylor-swift/red",
-    "nome": "Red",
-    "artista": "Taylor Swift",
-    "categoria": "Principal"
-  },
-  {
-    "pasta": "musicas/gorillaz/feel-good-inc",
-    "nome": "Feel Good Inc.",
-    "artista": "Gorillaz",
-    "categoria": "Principal"
-  },
-  {
-    "pasta": "musicas/metallica/enter-sandman",
-    "nome": "Enter Sandman",
-    "artista": "Metallica",
-    "categoria": "Principal"
-  },
-  {
-    "pasta": "musicas/linkin-park/numb",
-    "nome": "Numb",
-    "artista": "Linkin Park",
-    "categoria": "Principal"
-  },
-  {
-    "pasta": "musicas/michael-jackson/thriller",
-    "nome": "Thriller",
-    "artista": "Michael Jackson",
-    "categoria": "Principal"
-  },
-  {
-    "pasta": "musicas/toby-fox/megalo-strike-back",
-    "nome": "Megalo Strike Back",
-    "artista": "Toby Fox",
-    "categoria": "Geek"
-  },
-  {
-    "pasta": "musicas/metallica/master-of-puppets",
-    "nome": "Master of Puppets",
-    "artista": "Metallica",
-    "categoria": "Principal"
-  },
-  {
-    "pasta": "musicas/metallica/fade-to-black",
-    "nome": "Fade to Black",
-    "artista": "Metallica",
-    "categoria": "Principal"
-  },
-  {
-    "pasta": "musicas/michael-jackson/chicago",
-    "nome": "Chicago",
-    "artista": "Michael Jackson",
-    "categoria": "Principal"
-  },
-  {
-    "pasta": "musicas/michael-jackson/smooth-criminal",
-    "nome": "Smooth Criminal",
-    "artista": "Michael Jackson",
-    "categoria": "Principal"
-  },
-  {
-    "pasta": "musicas/skillet/monster",
-    "nome": "Monster",
-    "artista": "Skillet",
-    "categoria": "Principal"
-  },
-  {
-    "pasta": "musicas/skillet/feel-invincible",
-    "nome": "Feel Invincible",
-    "artista": "Skillet",
-    "categoria": "Principal"
-  },
-  {
-    "pasta": "musicas/skillet/awake-and-alive",
-    "nome": "Awake and Alive",
-    "artista": "Skillet",
-    "categoria": "Principal"
-  },
-  {
-    "pasta": "musicas/muse/supermassive-black-hole",
-    "nome": "Supermassive Black Hole",
-    "artista": "Muse",
-    "categoria": "Principal"
-  },
-  {
-    "pasta": "musicas/mighty-morphin/go-go-power-rangers",
-    "nome": "Go Go Power Rangers",
-    "artista": "Mighty Morphin",
-    "categoria": "Geek"
-  },
-  {
-    "pasta": "musicas/fall-out-boy/centuries",
-    "nome": "Centuries",
-    "artista": "Fall Out Boy",
-    "categoria": "Principal"
-  },
-  {
-    "pasta": "musicas/fall-out-boy/beat-it-feat-john-mayer",
-    "nome": "Beat It feat. John Mayer",
-    "artista": "Fall Out Boy",
-    "categoria": "Principal"
-  },
-  {
-    "pasta": "musicas/living-colour/cult-of-personality",
-    "nome": "Cult Of Personality",
-    "artista": "Living Colour",
-    "categoria": "Principal"
-  },
-  {
-    "pasta": "musicas/an-endless-sporadic/impulse",
-    "nome": "Impulse",
-    "artista": "An Endless Sporadic",
-    "categoria": "Geek"
-  },
-  {
-    "pasta": "musicas/jerryc/canon-rock",
-    "nome": "Canon Rock",
-    "artista": "JerryC",
-    "categoria": "Geek"
-  },
-  {
-    "pasta": "musicas/pentakill/deathfire-grasp",
-    "nome": "Deathfire Grasp",
-    "artista": "Pentakill",
-    "categoria": "Principal"
-  },
-  {
-    "pasta": "musicas/pentakill/last-whisper",
-    "nome": "Last Whisper",
-    "artista": "Pentakill",
-    "categoria": "Principal"
-  },
-  {
-    "pasta": "musicas/pentakill/lightbringer",
-    "nome": "Lightbringer",
-    "artista": "Pentakill",
-    "categoria": "Principal"
-  },
-  {
-    "pasta": "musicas/avenged-sevenfold/almost-easy",
-    "nome": "Almost Easy",
-    "artista": "Avenged Sevenfold",
-    "categoria": "Principal"
-  },
-  {
-    "pasta": "musicas/avenged-sevenfold/nightmare",
-    "nome": "Nightmare",
-    "artista": "Avenged Sevenfold",
-    "categoria": "Principal"
-  },
-  {
-    "pasta": "musicas/linkin-park/lying-from-you",
-    "nome": "Lying from You",
-    "artista": "Linkin Park",
-    "categoria": "Principal"
-  },
-  {
-    "pasta": "musicas/linkin-park/one-step-closer",
-    "nome": "One Step Closer",
-    "artista": "Linkin Park",
-    "categoria": "Principal"
-  },
-  {
-    "pasta": "musicas/linkin-park/crawling",
-    "nome": "Crawling",
-    "artista": "Linkin Park",
-    "categoria": "Principal"
-  },
-  {
-    "pasta": "musicas/linkin-park/somewhere-i-belong",
-    "nome": "Somewhere I Belong",
-    "artista": "Linkin Park",
-    "categoria": "Principal"
-  },
-  {
-    "pasta": "musicas/linkin-park/given-up",
-    "nome": "Given Up",
-    "artista": "Linkin Park",
-    "categoria": "Principal"
-  },
-  {
-    "pasta": "musicas/linkin-park/heavy-is-the-crown",
-    "nome": "Heavy Is The Crown",
-    "artista": "Linkin Park",
-    "categoria": "Principal"
-  },
-  {
-    "pasta": "musicas/linkin-park/the-emptiness-machine",
-    "nome": "The Emptiness Machine",
-    "artista": "Linkin Park",
-    "categoria": "Principal"
-  },
-  {
-    "pasta": "musicas/lynyrd-skynyrd/free-bird",
-    "nome": "Free Bird",
-    "artista": "Lynyrd Skynyrd",
-    "categoria": "Principal"
-  },
-  {
-    "pasta": "musicas/disturbed/stricken",
-    "nome": "Stricken",
-    "artista": "Disturbed",
-    "categoria": "Principal"
-  },
-  {
-    "pasta": "musicas/system-of-a-down/aerials",
-    "nome": "Aerials",
-    "artista": "System of a Down",
-    "categoria": "Principal"
-  },
-  {
-    "pasta": "musicas/solence/phoenix",
-    "nome": "Phoenix",
-    "artista": "Solence",
-    "categoria": "Principal"
-  },
-  {
-    "pasta": "musicas/system-of-a-down/sugar",
-    "nome": "Sugar",
-    "artista": "System of a Down",
-    "categoria": "Principal"
-  },
-  {
-    "pasta": "musicas/solence/legends-never-die",
-    "nome": "Legends Never Die",
-    "artista": "Solence",
-    "categoria": "Principal"
-  },
-  {
-    "pasta": "musicas/solence/take-over",
-    "nome": "Take Over",
-    "artista": "Solence",
-    "categoria": "Principal"
-  },
-  {
-    "pasta": "musicas/bon-jovi/its-my-life",
-    "nome": "Its My Life",
-    "artista": "Bon Jovi",
-    "categoria": "Principal"
-  },
-  {
-    "pasta": "musicas/bon-jovi/livin-on-a-prayer-rb3-version",
-    "nome": "Livin on a Prayer RB3 version",
-    "artista": "Bon Jovi",
-    "categoria": "Principal"
-  },
-  {
-    "pasta": "musicas/bon-jovi/you-give-love-a-bad-name",
-    "nome": "You Give Love a Bad Name",
-    "artista": "Bon Jovi",
-    "categoria": "Principal"
-  },
-  {
-    "pasta": "musicas/system-of-a-down/sad-statue",
-    "nome": "Sad Statue",
-    "artista": "System of a Down",
-    "categoria": "Principal"
-  },
-  {
-    "pasta": "musicas/avenged-sevenfold/cosmic",
-    "nome": "Cosmic",
-    "artista": "Avenged Sevenfold",
-    "categoria": "Principal"
-  },
-  {
-    "pasta": "musicas/avenged-sevenfold/afterlife",
-    "nome": "Afterlife",
-    "artista": "Avenged Sevenfold",
-    "categoria": "Principal"
-  },
-  {
-    "pasta": "musicas/pearl-jam/even-flow",
-    "nome": "Even Flow",
-    "artista": "Pearl Jam",
-    "categoria": "Principal"
-  },
-  {
-    "pasta": "musicas/pearl-jam/alive",
-    "nome": "Alive",
-    "artista": "Pearl Jam",
-    "categoria": "Principal"
-  },
-  {
-    "pasta": "musicas/radiohead/creep",
-    "nome": "Creep",
-    "artista": "Radiohead",
-    "categoria": "Principal"
-  },
-  {
-    "pasta": "musicas/pearl-jam/black",
-    "nome": "Black",
-    "artista": "Pearl Jam",
-    "categoria": "Principal"
-  },
-  {
-    "pasta": "musicas/pearl-jam/yellow-ledbetter",
-    "nome": "Yellow Ledbetter",
-    "artista": "Pearl Jam",
-    "categoria": "Principal"
-  },
-  {
-    "pasta": "musicas/eminem/rap-god",
-    "nome": "Rap God",
-    "artista": "Eminem",
-    "categoria": "Geek"
-  },
-  {
-    "pasta": "musicas/eminem-ft-juice-wrld/godzilla",
-    "nome": "Godzilla",
-    "artista": "Eminem",
-    "categoria": "Geek"
-  },
-  {
-    "pasta": "musicas/eminem/lose-yourself",
-    "nome": "Lose Yourself",
-    "artista": "Eminem",
-    "categoria": "Geek"
-  },
-  {
-    "pasta": "musicas/chris-brown/look-at-me-now",
-    "nome": "Look At Me Now",
-    "artista": "Chris Brown",
-    "categoria": "Geek"
-  },
-  {
-    "pasta": "musicas/raimundos/esporrei-na-manivela",
-    "nome": "Esporrei na Manivela",
-    "artista": "Raimundos",
-    "categoria": "Principal"
-  },
-  {
-    "pasta": "musicas/raimundos/infeliz-natal",
-    "nome": "Infeliz Natal",
-    "artista": "Raimundos",
-    "categoria": "Principal"
-  },
-  {
-    "pasta": "musicas/raimundos/eu-quero-ver-o-oco",
-    "nome": "Eu Quero Ver O Oco",
-    "artista": "Raimundos",
-    "categoria": "Principal"
-  },
-  {
-    "pasta": "musicas/avenged-sevenfold/dancing-dead",
-    "nome": "Dancing Dead",
-    "artista": "Avenged Sevenfold",
-    "categoria": "Principal"
-  },
-  {
-    "pasta": "musicas/banda-djavu/o-que-pensa-que-eu-sou",
-    "nome": "O que pensa que eu sou",
-    "artista": "Banda Djavu",
-    "categoria": "Meme"
-  },
-  {
-    "pasta": "musicas/baroes-da-pisadinha/ja-que-me-ensinou-a-beber",
-    "nome": "Ja Que Me Ensinou a Beber",
-    "artista": "Baroes Da Pisadinha",
-    "categoria": "Meme"
-  },
-  {
-    "pasta": "musicas/baroes-da-pisadinha/ta-rocheda",
-    "nome": "Ta Rocheda",
-    "artista": "Baroes Da Pisadinha",
-    "categoria": "Meme"
-  },
-  {
-    "pasta": "musicas/baroes-da-pisadinha/bebe-vem-me-procurar",
-    "nome": "Bebe Vem Me Procurar",
-    "artista": "Baroes Da Pisadinha",
-    "categoria": "Meme"
-  },
-  {
-    "pasta": "musicas/baroes-da-pisadinha/nunca-vai-ser-eu",
-    "nome": "Nunca Vai Ser Eu",
-    "artista": "Baroes Da Pisadinha",
-    "categoria": "Meme"
-  },
-  {
-    "pasta": "musicas/linkin-park/in-pieces",
-    "nome": "In Pieces",
-    "artista": "Linkin Park",
-    "categoria": "Principal"
-  },
-  {
-    "pasta": "musicas/kessoku-band/if-i-could-become-a-constellation-live-a",
-    "nome": "If I Could Become a Constellation Live a",
-    "artista": "Kessoku Band",
-    "categoria": "Anime"
-  },
-  {
-    "pasta": "musicas/kessoku-band/seishun-complex-tv-size",
-    "nome": "Seishun Complex TV Size",
-    "artista": "Kessoku Band",
-    "categoria": "Anime"
-  },
-  {
-    "pasta": "musicas/kessoku-band/that-band",
-    "nome": "That Band",
-    "artista": "Kessoku Band",
-    "categoria": "Anime"
-  },
-  {
-    "pasta": "musicas/avenged-sevenfold/hail-to-the-king",
-    "nome": "Hail to the King",
-    "artista": "Avenged Sevenfold",
-    "categoria": "Principal"
-  },
-  {
-    "pasta": "musicas/avenged-sevenfold/acid-rain",
-    "nome": "Acid Rain",
-    "artista": "Avenged Sevenfold",
-    "categoria": "Principal"
-  },
-  {
-    "pasta": "musicas/avenged-sevenfold/second-heartbeat",
-    "nome": "Second Heartbeat",
-    "artista": "Avenged Sevenfold",
-    "categoria": "Principal"
-  },
-  {
-    "pasta": "musicas/avenged-sevenfold/beast-and-the-harlot",
-    "nome": "Beast and the Harlot",
-    "artista": "Avenged Sevenfold",
-    "categoria": "Principal"
-  },
-  {
-    "pasta": "musicas/avenged-sevenfold/gunslinger",
-    "nome": "Gunslinger",
-    "artista": "Avenged Sevenfold",
-    "categoria": "Principal"
-  },
-  {
-    "pasta": "musicas/avenged-sevenfold/m-i-a",
-    "nome": "M.I.A.",
-    "artista": "Avenged Sevenfold",
-    "categoria": "Principal"
-  },
-  {
-    "pasta": "musicas/avenged-sevenfold/bat-country",
-    "nome": "Bat Country",
-    "artista": "Avenged Sevenfold",
-    "categoria": "Principal"
-  },
-  {
-    "pasta": "musicas/avenged-sevenfold/buried-alive",
-    "nome": "Buried Alive",
-    "artista": "Avenged Sevenfold",
-    "categoria": "Principal"
-  },
-  {
-    "pasta": "musicas/avenged-sevenfold/danger-line",
-    "nome": "Danger Line",
-    "artista": "Avenged Sevenfold",
-    "categoria": "Principal"
-  },
-  {
-    "pasta": "musicas/five-finger-death-punch/bad-company",
-    "nome": "Bad Company",
-    "artista": "Five Finger Death Punch",
-    "categoria": "Principal"
-  },
-  {
-    "pasta": "musicas/skillet/whispers-in-the-dark",
-    "nome": "Whispers In the Dark",
-    "artista": "Skillet",
-    "categoria": "Principal"
-  },
-  {
-    "pasta": "musicas/five-finger-death-punch/far-from-home",
-    "nome": "Far From Home",
-    "artista": "Five Finger Death Punch",
-    "categoria": "Principal"
-  },
-  {
-    "pasta": "musicas/five-finger-death-punch/i-apologize",
-    "nome": "I Apologize",
-    "artista": "Five Finger Death Punch",
-    "categoria": "Principal"
-  },
-  {
-    "pasta": "musicas/five-finger-death-punch/battle-born",
-    "nome": "Battle Born",
-    "artista": "Five Finger Death Punch",
-    "categoria": "Principal"
-  },
-  {
-    "pasta": "musicas/five-finger-death-punch/got-your-six",
-    "nome": "Got Your Six",
-    "artista": "Five Finger Death Punch",
-    "categoria": "Principal"
-  },
-  {
-    "pasta": "musicas/scalene/histeria",
-    "nome": "Histeria",
-    "artista": "Scalene",
-    "categoria": "Principal"
-  },
-  {
-    "pasta": "musicas/muse/knights-of-cydonia",
-    "nome": "Knights of Cydonia",
-    "artista": "Muse",
-    "categoria": "Principal"
-  },
-  {
-    "pasta": "musicas/angra/pegasus-fantasy-dco-pollis-edit",
-    "nome": "Pegasus Fantasy Dco Pollis Edit",
-    "artista": "Angra",
-    "categoria": "Principal"
-  },
-  {
-    "pasta": "musicas/angra/ride-into-the-storm",
-    "nome": "Ride Into The Storm",
-    "artista": "Angra",
-    "categoria": "Principal"
-  },
-  {
-    "pasta": "musicas/angra/rebirth",
-    "nome": "Rebirth",
-    "artista": "Angra",
-    "categoria": "Principal"
-  },
-  {
-    "pasta": "musicas/angra/awake-from-darkness",
-    "nome": "Awake From Darkness",
-    "artista": "Angra",
-    "categoria": "Principal"
-  },
-  {
-    "pasta": "musicas/angra/nova-era",
-    "nome": "Nova Era",
-    "artista": "Angra",
-    "categoria": "Principal"
-  },
-  {
-    "pasta": "musicas/angra/angra-sort-of-discography-solo-medley",
-    "nome": "Angra Sort-Of-Discography Solo Medley",
-    "artista": "Angra",
-    "categoria": "Principal"
-  },
-  {
-    "pasta": "musicas/sim/the-rumbling",
-    "nome": "The Rumbling",
-    "artista": "SiM",
-    "categoria": "Anime"
-  },
-  {
-    "pasta": "musicas/linked-horizon/shinzou-wo-sasageyo",
-    "nome": "Shinzou wo Sasageyo!",
-    "artista": "Linked Horizon",
-    "categoria": "Anime"
-  },
-  {
-    "pasta": "musicas/eve/kaikai-kitan",
-    "nome": "Kaikai Kitan",
-    "artista": "Eve",
-    "categoria": "Anime"
-  },
-  {
-    "pasta": "musicas/masatoshi-ono/departure",
-    "nome": "Departure!",
-    "artista": "Masatoshi Ono",
-    "categoria": "Anime"
-  },
-  {
-    "pasta": "musicas/black-sabbath/black-sabbath",
-    "nome": "Black Sabbath",
-    "artista": "Black Sabbath",
-    "categoria": "Principal"
+    "categoria": "Rock/Metal"
   },
   {
     "pasta": "musicas/ac-dc/you-shook-me-all-night-long",
     "nome": "You Shook Me All Night Long",
     "artista": "AC/DC",
-    "categoria": "Principal"
+    "categoria": "Rock/Metal"
   },
   {
-    "pasta": "musicas/ac-dc/back-in-business",
-    "nome": "Back in Business",
-    "artista": "AC/DC",
-    "categoria": "Principal"
+    "pasta": "musicas/angra/angra-sort-of-discography-solo-medley",
+    "nome": "Angra Sort-Of-Discography Solo Medley",
+    "artista": "Angra",
+    "categoria": "Rock/Metal"
   },
   {
-    "pasta": "musicas/galneryus/hunting-for-your-dream",
-    "nome": "HUNTING FOR YOUR DREAM",
-    "artista": "Galneryus",
-    "categoria": "Anime"
+    "pasta": "musicas/angra/awake-from-darkness",
+    "nome": "Awake From Darkness",
+    "artista": "Angra",
+    "categoria": "Rock/Metal"
   },
   {
-    "pasta": "musicas/tk-from-ling-tosite-sigure/unravel",
-    "nome": "Unravel",
-    "artista": "TK from Ling tosite sigure",
-    "categoria": "Anime"
+    "pasta": "musicas/angra/nova-era",
+    "nome": "Nova Era",
+    "artista": "Angra",
+    "categoria": "Rock/Metal"
   },
   {
-    "pasta": "musicas/falling-in-reverse/joseph",
-    "nome": "Joseph",
-    "artista": "Falling In Reverse",
-    "categoria": "Anime"
+    "pasta": "musicas/angra/rebirth",
+    "nome": "Rebirth",
+    "artista": "Angra",
+    "categoria": "Rock/Metal"
   },
   {
-    "pasta": "musicas/co-shu-nie/asphyxia-tokyo-ghoul-op-3-full-version",
-    "nome": "Asphyxia Tokyo Ghoul Op 3 Full Version",
-    "artista": "Co shu Nie",
-    "categoria": "Anime"
+    "pasta": "musicas/angra/ride-into-the-storm",
+    "nome": "Ride Into The Storm",
+    "artista": "Angra",
+    "categoria": "Rock/Metal"
   },
   {
-    "pasta": "musicas/massacration/metal-milf",
-    "nome": "Metal Milf",
-    "artista": "Massacration",
-    "categoria": "Principal"
+    "pasta": "musicas/avenged-sevenfold/acid-rain",
+    "nome": "Acid Rain",
+    "artista": "Avenged Sevenfold",
+    "categoria": "Rock/Metal"
   },
   {
-    "pasta": "musicas/massacration/metal-milkshake",
-    "nome": "Metal Milkshake",
-    "artista": "Massacration",
-    "categoria": "Principal"
+    "pasta": "musicas/avenged-sevenfold/afterlife",
+    "nome": "Afterlife",
+    "artista": "Avenged Sevenfold",
+    "categoria": "Rock/Metal"
   },
   {
-    "pasta": "musicas/massacration/evil-papagali",
-    "nome": "Evil Papagali",
-    "artista": "Massacration",
-    "categoria": "Principal"
+    "pasta": "musicas/avenged-sevenfold/almost-easy",
+    "nome": "Almost Easy",
+    "artista": "Avenged Sevenfold",
+    "categoria": "Rock/Metal"
   },
   {
-    "pasta": "musicas/michael-jackson/billie-jean",
-    "nome": "Billie Jean",
-    "artista": "Michael Jackson",
-    "categoria": "Principal"
+    "pasta": "musicas/avenged-sevenfold/bat-country",
+    "nome": "Bat Country",
+    "artista": "Avenged Sevenfold",
+    "categoria": "Rock/Metal"
+  },
+  {
+    "pasta": "musicas/avenged-sevenfold/beast-and-the-harlot",
+    "nome": "Beast and the Harlot",
+    "artista": "Avenged Sevenfold",
+    "categoria": "Rock/Metal"
+  },
+  {
+    "pasta": "musicas/avenged-sevenfold/buried-alive",
+    "nome": "Buried Alive",
+    "artista": "Avenged Sevenfold",
+    "categoria": "Rock/Metal"
+  },
+  {
+    "pasta": "musicas/avenged-sevenfold/carry-on",
+    "nome": "Carry On",
+    "artista": "Avenged Sevenfold",
+    "categoria": "Rock/Metal"
+  },
+  {
+    "pasta": "musicas/avenged-sevenfold/cosmic",
+    "nome": "Cosmic",
+    "artista": "Avenged Sevenfold",
+    "categoria": "Rock/Metal"
+  },
+  {
+    "pasta": "musicas/avenged-sevenfold/dancing-dead",
+    "nome": "Dancing Dead",
+    "artista": "Avenged Sevenfold",
+    "categoria": "Rock/Metal"
+  },
+  {
+    "pasta": "musicas/avenged-sevenfold/danger-line",
+    "nome": "Danger Line",
+    "artista": "Avenged Sevenfold",
+    "categoria": "Rock/Metal"
+  },
+  {
+    "pasta": "musicas/avenged-sevenfold/god-hates-us",
+    "nome": "God Hates Us",
+    "artista": "Avenged Sevenfold",
+    "categoria": "Rock/Metal"
+  },
+  {
+    "pasta": "musicas/avenged-sevenfold/gunslinger",
+    "nome": "Gunslinger",
+    "artista": "Avenged Sevenfold",
+    "categoria": "Rock/Metal"
+  },
+  {
+    "pasta": "musicas/avenged-sevenfold/hail-to-the-king",
+    "nome": "Hail to the King",
+    "artista": "Avenged Sevenfold",
+    "categoria": "Rock/Metal"
+  },
+  {
+    "pasta": "musicas/avenged-sevenfold/m-i-a",
+    "nome": "M.I.A.",
+    "artista": "Avenged Sevenfold",
+    "categoria": "Rock/Metal"
+  },
+  {
+    "pasta": "musicas/avenged-sevenfold/nightmare",
+    "nome": "Nightmare",
+    "artista": "Avenged Sevenfold",
+    "categoria": "Rock/Metal"
+  },
+  {
+    "pasta": "musicas/avenged-sevenfold/nobody",
+    "nome": "Nobody",
+    "artista": "Avenged Sevenfold",
+    "categoria": "Rock/Metal"
+  },
+  {
+    "pasta": "musicas/avenged-sevenfold/second-heartbeat",
+    "nome": "Second Heartbeat",
+    "artista": "Avenged Sevenfold",
+    "categoria": "Rock/Metal"
+  },
+  {
+    "pasta": "musicas/avenged-sevenfold/the-stage",
+    "nome": "The Stage",
+    "artista": "Avenged Sevenfold",
+    "categoria": "Rock/Metal"
+  },
+  {
+    "pasta": "musicas/bad-wolves/zombie",
+    "nome": "Zombie cover",
+    "artista": "Bad Wolves",
+    "categoria": "Rock/Metal"
+  },
+  {
+    "pasta": "musicas/black-sabbath/black-sabbath",
+    "nome": "Black Sabbath",
+    "artista": "Black Sabbath",
+    "categoria": "Rock/Metal"
+  },
+  {
+    "pasta": "musicas/black-sabbath/iron-man",
+    "nome": "Iron Man",
+    "artista": "Black Sabbath",
+    "categoria": "Rock/Metal"
+  },
+  {
+    "pasta": "musicas/black-sabbath/n-i-b",
+    "nome": "N.I.B.",
+    "artista": "Black Sabbath",
+    "categoria": "Rock/Metal"
+  },
+  {
+    "pasta": "musicas/black-sabbath/paranoid",
+    "nome": "Paranoid",
+    "artista": "Black Sabbath",
+    "categoria": "Rock/Metal"
+  },
+  {
+    "pasta": "musicas/bon-jovi/its-my-life",
+    "nome": "Its My Life",
+    "artista": "Bon Jovi",
+    "categoria": "Rock/Metal"
+  },
+  {
+    "pasta": "musicas/bon-jovi/livin-on-a-prayer-rb3-version",
+    "nome": "Livin on a Prayer RB3 version",
+    "artista": "Bon Jovi",
+    "categoria": "Rock/Metal"
+  },
+  {
+    "pasta": "musicas/bon-jovi/you-give-love-a-bad-name",
+    "nome": "You Give Love a Bad Name",
+    "artista": "Bon Jovi",
+    "categoria": "Rock/Metal"
+  },
+  {
+    "pasta": "musicas/disturbed/stricken",
+    "nome": "Stricken",
+    "artista": "Disturbed",
+    "categoria": "Rock/Metal"
   },
   {
     "pasta": "musicas/disturbed/the-sound-of-silence",
     "nome": "The Sound of Silence",
     "artista": "Disturbed",
-    "categoria": "Principal"
+    "categoria": "Rock/Metal"
+  },
+  {
+    "pasta": "musicas/fall-out-boy/beat-it-feat-john-mayer",
+    "nome": "Beat It feat. John Mayer",
+    "artista": "Fall Out Boy",
+    "categoria": "Rock/Metal"
+  },
+  {
+    "pasta": "musicas/fall-out-boy/centuries",
+    "nome": "Centuries",
+    "artista": "Fall Out Boy",
+    "categoria": "Rock/Metal"
+  },
+  {
+    "pasta": "musicas/far-from-alaska/relentless-game",
+    "nome": "Relentless Game",
+    "artista": "Far From Alaska",
+    "categoria": "Rock/Metal"
+  },
+  {
+    "pasta": "musicas/five-finger-death-punch/bad-company",
+    "nome": "Bad Company",
+    "artista": "Five Finger Death Punch",
+    "categoria": "Rock/Metal"
+  },
+  {
+    "pasta": "musicas/five-finger-death-punch/battle-born",
+    "nome": "Battle Born",
+    "artista": "Five Finger Death Punch",
+    "categoria": "Rock/Metal"
+  },
+  {
+    "pasta": "musicas/five-finger-death-punch/far-from-home",
+    "nome": "Far From Home",
+    "artista": "Five Finger Death Punch",
+    "categoria": "Rock/Metal"
+  },
+  {
+    "pasta": "musicas/five-finger-death-punch/got-your-six",
+    "nome": "Got Your Six",
+    "artista": "Five Finger Death Punch",
+    "categoria": "Rock/Metal"
+  },
+  {
+    "pasta": "musicas/five-finger-death-punch/i-apologize",
+    "nome": "I Apologize",
+    "artista": "Five Finger Death Punch",
+    "categoria": "Rock/Metal"
+  },
+  {
+    "pasta": "musicas/guns-n-roses/november-rain",
+    "nome": "November Rain",
+    "artista": "Guns N Roses",
+    "categoria": "Rock/Metal"
+  },
+  {
+    "pasta": "musicas/guns-n-roses/paradise-city",
+    "nome": "Paradise City",
+    "artista": "Guns N Roses",
+    "categoria": "Rock/Metal"
+  },
+  {
+    "pasta": "musicas/guns-n-roses/sweet-child-o-mine",
+    "nome": "Sweet Child o Mine",
+    "artista": "Guns N Roses",
+    "categoria": "Rock/Metal"
+  },
+  {
+    "pasta": "musicas/guns-n-roses/this-i-love",
+    "nome": "This I Love",
+    "artista": "Guns N Roses",
+    "categoria": "Rock/Metal"
+  },
+  {
+    "pasta": "musicas/guns-n-roses/welcome-to-the-jungle",
+    "nome": "Welcome to the Jungle",
+    "artista": "Guns N Roses",
+    "categoria": "Rock/Metal"
+  },
+  {
+    "pasta": "musicas/linkin-park/crawling",
+    "nome": "Crawling",
+    "artista": "Linkin Park",
+    "categoria": "Rock/Metal"
+  },
+  {
+    "pasta": "musicas/linkin-park/given-up",
+    "nome": "Given Up",
+    "artista": "Linkin Park",
+    "categoria": "Rock/Metal"
+  },
+  {
+    "pasta": "musicas/linkin-park/heavy-is-the-crown",
+    "nome": "Heavy Is The Crown",
+    "artista": "Linkin Park",
+    "categoria": "Rock/Metal"
+  },
+  {
+    "pasta": "musicas/linkin-park/in-pieces",
+    "nome": "In Pieces",
+    "artista": "Linkin Park",
+    "categoria": "Rock/Metal"
+  },
+  {
+    "pasta": "musicas/linkin-park/lying-from-you",
+    "nome": "Lying from You",
+    "artista": "Linkin Park",
+    "categoria": "Rock/Metal"
+  },
+  {
+    "pasta": "musicas/linkin-park/numb",
+    "nome": "Numb",
+    "artista": "Linkin Park",
+    "categoria": "Rock/Metal"
+  },
+  {
+    "pasta": "musicas/linkin-park/one-step-closer",
+    "nome": "One Step Closer",
+    "artista": "Linkin Park",
+    "categoria": "Rock/Metal"
+  },
+  {
+    "pasta": "musicas/linkin-park/somewhere-i-belong",
+    "nome": "Somewhere I Belong",
+    "artista": "Linkin Park",
+    "categoria": "Rock/Metal"
+  },
+  {
+    "pasta": "musicas/linkin-park/the-emptiness-machine",
+    "nome": "The Emptiness Machine",
+    "artista": "Linkin Park",
+    "categoria": "Rock/Metal"
+  },
+  {
+    "pasta": "musicas/living-colour/cult-of-personality",
+    "nome": "Cult Of Personality",
+    "artista": "Living Colour",
+    "categoria": "Rock/Metal"
+  },
+  {
+    "pasta": "musicas/lynyrd-skynyrd/free-bird",
+    "nome": "Free Bird",
+    "artista": "Lynyrd Skynyrd",
+    "categoria": "Rock/Metal"
+  },
+  {
+    "pasta": "musicas/mamonas-assassinas/debil-metal",
+    "nome": "Debil Metal",
+    "artista": "Mamonas Assassinas",
+    "categoria": "Rock/Metal"
+  },
+  {
+    "pasta": "musicas/massacration/evil-papagali",
+    "nome": "Evil Papagali",
+    "artista": "Massacration",
+    "categoria": "Rock/Metal"
+  },
+  {
+    "pasta": "musicas/massacration/metal-is-the-law",
+    "nome": "Metal Is The Law",
+    "artista": "Massacration",
+    "categoria": "Rock/Metal"
+  },
+  {
+    "pasta": "musicas/massacration/metal-milf",
+    "nome": "Metal Milf",
+    "artista": "Massacration",
+    "categoria": "Rock/Metal"
+  },
+  {
+    "pasta": "musicas/massacration/metal-milkshake",
+    "nome": "Metal Milkshake",
+    "artista": "Massacration",
+    "categoria": "Rock/Metal"
+  },
+  {
+    "pasta": "musicas/megadeth/tornado-of-souls",
+    "nome": "Tornado of Souls",
+    "artista": "Megadeth",
+    "categoria": "Rock/Metal"
+  },
+  {
+    "pasta": "musicas/metallica/enter-sandman",
+    "nome": "Enter Sandman",
+    "artista": "Metallica",
+    "categoria": "Rock/Metal"
+  },
+  {
+    "pasta": "musicas/metallica/fade-to-black",
+    "nome": "Fade to Black",
+    "artista": "Metallica",
+    "categoria": "Rock/Metal"
+  },
+  {
+    "pasta": "musicas/metallica/master-of-puppets",
+    "nome": "Master of Puppets",
+    "artista": "Metallica",
+    "categoria": "Rock/Metal"
+  },
+  {
+    "pasta": "musicas/muse/knights-of-cydonia",
+    "nome": "Knights of Cydonia",
+    "artista": "Muse",
+    "categoria": "Rock/Metal"
+  },
+  {
+    "pasta": "musicas/muse/supermassive-black-hole",
+    "nome": "Supermassive Black Hole",
+    "artista": "Muse",
+    "categoria": "Rock/Metal"
+  },
+  {
+    "pasta": "musicas/pearl-jam/alive",
+    "nome": "Alive",
+    "artista": "Pearl Jam",
+    "categoria": "Rock/Metal"
+  },
+  {
+    "pasta": "musicas/pearl-jam/black",
+    "nome": "Black",
+    "artista": "Pearl Jam",
+    "categoria": "Rock/Metal"
+  },
+  {
+    "pasta": "musicas/pearl-jam/even-flow",
+    "nome": "Even Flow",
+    "artista": "Pearl Jam",
+    "categoria": "Rock/Metal"
+  },
+  {
+    "pasta": "musicas/pearl-jam/yellow-ledbetter",
+    "nome": "Yellow Ledbetter",
+    "artista": "Pearl Jam",
+    "categoria": "Rock/Metal"
+  },
+  {
+    "pasta": "musicas/pentakill/deathfire-grasp",
+    "nome": "Deathfire Grasp",
+    "artista": "Pentakill",
+    "categoria": "Rock/Metal"
+  },
+  {
+    "pasta": "musicas/pentakill/last-whisper",
+    "nome": "Last Whisper",
+    "artista": "Pentakill",
+    "categoria": "Rock/Metal"
+  },
+  {
+    "pasta": "musicas/pentakill/lightbringer",
+    "nome": "Lightbringer",
+    "artista": "Pentakill",
+    "categoria": "Rock/Metal"
+  },
+  {
+    "pasta": "musicas/radiohead/creep",
+    "nome": "Creep",
+    "artista": "Radiohead",
+    "categoria": "Rock/Metal"
+  },
+  {
+    "pasta": "musicas/raimundos/esporrei-na-manivela",
+    "nome": "Esporrei na Manivela",
+    "artista": "Raimundos",
+    "categoria": "Rock/Metal"
+  },
+  {
+    "pasta": "musicas/raimundos/eu-quero-ver-o-oco",
+    "nome": "Eu Quero Ver O Oco",
+    "artista": "Raimundos",
+    "categoria": "Rock/Metal"
+  },
+  {
+    "pasta": "musicas/raimundos/infeliz-natal",
+    "nome": "Infeliz Natal",
+    "artista": "Raimundos",
+    "categoria": "Rock/Metal"
+  },
+  {
+    "pasta": "musicas/scalene/danse-macabre",
+    "nome": "Danse Macabre",
+    "artista": "Scalene",
+    "categoria": "Rock/Metal"
+  },
+  {
+    "pasta": "musicas/scalene/histeria",
+    "nome": "Histeria",
+    "artista": "Scalene",
+    "categoria": "Rock/Metal"
+  },
+  {
+    "pasta": "musicas/scalene/sonhador",
+    "nome": "Sonhador",
+    "artista": "Scalene",
+    "categoria": "Rock/Metal"
+  },
+  {
+    "pasta": "musicas/set-it-off/wolf-in-sheeps-clothing-reborn",
+    "nome": "Wolf In Sheeps Clothing REBORN",
+    "artista": "Set It Off",
+    "categoria": "Rock/Metal"
+  },
+  {
+    "pasta": "musicas/skillet/awake-and-alive",
+    "nome": "Awake and Alive",
+    "artista": "Skillet",
+    "categoria": "Rock/Metal"
+  },
+  {
+    "pasta": "musicas/skillet/feel-invincible",
+    "nome": "Feel Invincible",
+    "artista": "Skillet",
+    "categoria": "Rock/Metal"
+  },
+  {
+    "pasta": "musicas/skillet/monster",
+    "nome": "Monster",
+    "artista": "Skillet",
+    "categoria": "Rock/Metal"
+  },
+  {
+    "pasta": "musicas/skillet/not-gonna-die",
+    "nome": "Not Gonna Die",
+    "artista": "Skillet",
+    "categoria": "Rock/Metal"
+  },
+  {
+    "pasta": "musicas/skillet/whispers-in-the-dark",
+    "nome": "Whispers In the Dark",
+    "artista": "Skillet",
+    "categoria": "Rock/Metal"
+  },
+  {
+    "pasta": "musicas/solence/legends-never-die",
+    "nome": "Legends Never Die",
+    "artista": "Solence",
+    "categoria": "Rock/Metal"
+  },
+  {
+    "pasta": "musicas/solence/phoenix",
+    "nome": "Phoenix",
+    "artista": "Solence",
+    "categoria": "Rock/Metal"
+  },
+  {
+    "pasta": "musicas/solence/take-over",
+    "nome": "Take Over",
+    "artista": "Solence",
+    "categoria": "Rock/Metal"
+  },
+  {
+    "pasta": "musicas/system-of-a-down/aerials",
+    "nome": "Aerials",
+    "artista": "System of a Down",
+    "categoria": "Rock/Metal"
+  },
+  {
+    "pasta": "musicas/system-of-a-down/lonely-day",
+    "nome": "Lonely Day",
+    "artista": "System of a Down",
+    "categoria": "Rock/Metal"
+  },
+  {
+    "pasta": "musicas/system-of-a-down/sad-statue",
+    "nome": "Sad Statue",
+    "artista": "System of a Down",
+    "categoria": "Rock/Metal"
+  },
+  {
+    "pasta": "musicas/system-of-a-down/sugar",
+    "nome": "Sugar",
+    "artista": "System of a Down",
+    "categoria": "Rock/Metal"
+  },
+  {
+    "pasta": "musicas/warrant/cherry-pie",
+    "nome": "Cherry Pie",
+    "artista": "Warrant",
+    "categoria": "Rock/Metal"
   },
   {
     "pasta": "musicas/bonnie-tyler/total-eclipse-of-the-heart",
     "nome": "Total Eclipse of the Heart",
     "artista": "Bonnie Tyler",
-    "categoria": "Principal"
+    "categoria": "Pop/Rap"
+  },
+  {
+    "pasta": "musicas/chris-brown/look-at-me-now",
+    "nome": "Look At Me Now",
+    "artista": "Chris Brown",
+    "categoria": "Pop/Rap"
+  },
+  {
+    "pasta": "musicas/eminem-ft-juice-wrld/godzilla",
+    "nome": "Godzilla",
+    "artista": "Eminem",
+    "categoria": "Pop/Rap"
+  },
+  {
+    "pasta": "musicas/eminem/lose-yourself",
+    "nome": "Lose Yourself",
+    "artista": "Eminem",
+    "categoria": "Pop/Rap"
+  },
+  {
+    "pasta": "musicas/eminem/rap-god",
+    "nome": "Rap God",
+    "artista": "Eminem",
+    "categoria": "Pop/Rap"
+  },
+  {
+    "pasta": "musicas/gorillaz/clint-eastwood",
+    "nome": "Clint Eastwood",
+    "artista": "Gorillaz",
+    "categoria": "Pop/Rap"
+  },
+  {
+    "pasta": "musicas/gorillaz/feel-good-inc",
+    "nome": "Feel Good Inc.",
+    "artista": "Gorillaz",
+    "categoria": "Pop/Rap"
+  },
+  {
+    "pasta": "musicas/michael-jackson/beat-it",
+    "nome": "Beat It",
+    "artista": "Michael Jackson",
+    "categoria": "Pop/Rap"
+  },
+  {
+    "pasta": "musicas/michael-jackson/billie-jean",
+    "nome": "Billie Jean",
+    "artista": "Michael Jackson",
+    "categoria": "Pop/Rap"
+  },
+  {
+    "pasta": "musicas/michael-jackson/chicago",
+    "nome": "Chicago",
+    "artista": "Michael Jackson",
+    "categoria": "Pop/Rap"
+  },
+  {
+    "pasta": "musicas/michael-jackson/smooth-criminal",
+    "nome": "Smooth Criminal",
+    "artista": "Michael Jackson",
+    "categoria": "Pop/Rap"
+  },
+  {
+    "pasta": "musicas/michael-jackson/thriller",
+    "nome": "Thriller",
+    "artista": "Michael Jackson",
+    "categoria": "Pop/Rap"
+  },
+  {
+    "pasta": "musicas/michael-sembello/maniac",
+    "nome": "Maniac",
+    "artista": "Michael Sembello",
+    "categoria": "Pop/Rap"
+  },
+  {
+    "pasta": "musicas/taylor-swift/better-than-revenge",
+    "nome": "Better Than Revenge",
+    "artista": "Taylor Swift",
+    "categoria": "Pop/Rap"
+  },
+  {
+    "pasta": "musicas/taylor-swift/red",
+    "nome": "Red",
+    "artista": "Taylor Swift",
+    "categoria": "Pop/Rap"
+  },
+  {
+    "pasta": "musicas/taylor-swift/state-of-grace",
+    "nome": "State of Grace",
+    "artista": "Taylor Swift",
+    "categoria": "Pop/Rap"
+  },
+  {
+    "pasta": "musicas/an-endless-sporadic/impulse",
+    "nome": "Impulse",
+    "artista": "An Endless Sporadic",
+    "categoria": "Anime/Geek"
+  },
+  {
+    "pasta": "musicas/angra/pegasus-fantasy-dco-pollis-edit",
+    "nome": "Pegasus Fantasy Dco Pollis Edit",
+    "artista": "Angra",
+    "categoria": "Anime/Geek"
+  },
+  {
+    "pasta": "musicas/black-clover/black-catcher",
+    "nome": "Black Catcher",
+    "artista": "Black Clover",
+    "categoria": "Anime/Geek"
+  },
+  {
+    "pasta": "musicas/co-shu-nie/asphyxia-tokyo-ghoul-op-3-full-version",
+    "nome": "Asphyxia Tokyo Ghoul Op 3 Full Version",
+    "artista": "Co shu Nie",
+    "categoria": "Anime/Geek"
+  },
+  {
+    "pasta": "musicas/edu-falaschi/pegasus-fantasy-ultimate",
+    "nome": "Pegasus Fantasy Ultimate",
+    "artista": "Edu Falaschi",
+    "categoria": "Anime/Geek"
+  },
+  {
+    "pasta": "musicas/eve/kaikai-kitan",
+    "nome": "Kaikai Kitan",
+    "artista": "Eve",
+    "categoria": "Anime/Geek"
+  },
+  {
+    "pasta": "musicas/falling-in-reverse/joseph",
+    "nome": "Joseph",
+    "artista": "Falling In Reverse",
+    "categoria": "Anime/Geek"
+  },
+  {
+    "pasta": "musicas/galneryus/hunting-for-your-dream",
+    "nome": "HUNTING FOR YOUR DREAM",
+    "artista": "Galneryus",
+    "categoria": "Anime/Geek"
+  },
+  {
+    "pasta": "musicas/jerryc/canon-rock",
+    "nome": "Canon Rock",
+    "artista": "JerryC",
+    "categoria": "Anime/Geek"
+  },
+  {
+    "pasta": "musicas/kessoku-band/if-i-could-become-a-constellation-live-a",
+    "nome": "If I Could Become a Constellation Live a",
+    "artista": "Kessoku Band",
+    "categoria": "Anime/Geek"
+  },
+  {
+    "pasta": "musicas/kessoku-band/seishun-complex-tv-size",
+    "nome": "Seishun Complex TV Size",
+    "artista": "Kessoku Band",
+    "categoria": "Anime/Geek"
+  },
+  {
+    "pasta": "musicas/kessoku-band/that-band",
+    "nome": "That Band",
+    "artista": "Kessoku Band",
+    "categoria": "Anime/Geek"
+  },
+  {
+    "pasta": "musicas/linked-horizon/shinzou-wo-sasageyo",
+    "nome": "Shinzou wo Sasageyo!",
+    "artista": "Linked Horizon",
+    "categoria": "Anime/Geek"
+  },
+  {
+    "pasta": "musicas/masatoshi-ono/departure",
+    "nome": "Departure!",
+    "artista": "Masatoshi Ono",
+    "categoria": "Anime/Geek"
+  },
+  {
+    "pasta": "musicas/mighty-morphin/go-go-power-rangers",
+    "nome": "Go Go Power Rangers",
+    "artista": "Mighty Morphin",
+    "categoria": "Anime/Geek"
+  },
+  {
+    "pasta": "musicas/sim/the-rumbling",
+    "nome": "The Rumbling",
+    "artista": "SiM",
+    "categoria": "Anime/Geek"
+  },
+  {
+    "pasta": "musicas/tk-from-ling-tosite-sigure/unravel",
+    "nome": "Unravel",
+    "artista": "TK from Ling tosite sigure",
+    "categoria": "Anime/Geek"
+  },
+  {
+    "pasta": "musicas/toby-fox/megalo-strike-back",
+    "nome": "Megalo Strike Back",
+    "artista": "Toby Fox",
+    "categoria": "Anime/Geek"
+  },
+  {
+    "pasta": "musicas/banda-djavu/o-que-pensa-que-eu-sou",
+    "nome": "O que pensa que eu sou",
+    "artista": "Banda Djavu",
+    "categoria": "Forró/Pisadinha"
+  },
+  {
+    "pasta": "musicas/baroes-da-pisadinha/bebe-vem-me-procurar",
+    "nome": "Bebe Vem Me Procurar",
+    "artista": "Baroes Da Pisadinha",
+    "categoria": "Forró/Pisadinha"
+  },
+  {
+    "pasta": "musicas/baroes-da-pisadinha/ja-que-me-ensinou-a-beber",
+    "nome": "Ja Que Me Ensinou a Beber",
+    "artista": "Baroes Da Pisadinha",
+    "categoria": "Forró/Pisadinha"
+  },
+  {
+    "pasta": "musicas/baroes-da-pisadinha/nunca-vai-ser-eu",
+    "nome": "Nunca Vai Ser Eu",
+    "artista": "Baroes Da Pisadinha",
+    "categoria": "Forró/Pisadinha"
+  },
+  {
+    "pasta": "musicas/baroes-da-pisadinha/medley",
+    "nome": "Solos Medley",
+    "artista": "Baroes Da Pisadinha",
+    "categoria": "Forró/Pisadinha"
+  },
+  {
+    "pasta": "musicas/baroes-da-pisadinha/ta-rocheda",
+    "nome": "Ta Rocheda",
+    "artista": "Baroes Da Pisadinha",
+    "categoria": "Forró/Pisadinha"
   }
 ]
