@@ -838,5 +838,11 @@
     "nome": "Ta Rocheda",
     "artista": "Baroes Da Pisadinha",
     "categoria": "Forró/Pisadinha"
+  },
+  {
+    "pasta": "musicas/ac-dc/t-n-t-live",
+    "nome": "T.N.T. Live",
+    "artista": "AC/DC",
+    "categoria": "Principal"
   }
 ]
