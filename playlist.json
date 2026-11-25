@@ -844,5 +844,11 @@
     "nome": "T.N.T. Live",
     "artista": "AC/DC",
     "categoria": "Rock/Metal"
+  },
+  {
+    "pasta": "musicas/mamonas-assassinas/robocop-gay",
+    "nome": "Robocop Gay",
+    "artista": "Mamonas Assassinas",
+    "categoria": "Rock/Metal"
   }
 ]
