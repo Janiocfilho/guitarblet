@@ -868,5 +868,11 @@
     "nome": "Like a Stone",
     "artista": "Audioslave",
     "categoria": "Rock/Metal"
+  },
+  {
+    "pasta": "musicas/rhapsody-of-fire/dawn-of-victory",
+    "nome": "Dawn of Victory",
+    "artista": "Rhapsody of Fire",
+    "categoria": "Rock/Metal"
   }
 ]
