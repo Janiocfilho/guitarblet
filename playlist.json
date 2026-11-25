@@ -856,5 +856,11 @@
     "nome": "1406",
     "artista": "Mamonas Assassinas",
     "categoria": "Rock/Metal"
+  },
+  {
+    "pasta": "musicas/mamonas-assassinas/mundo-animal",
+    "nome": "Mundo Animal",
+    "artista": "Mamonas Assassinas",
+    "categoria": "Rock/Metal"
   }
 ]
