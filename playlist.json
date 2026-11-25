@@ -862,5 +862,11 @@
     "nome": "Mundo Animal",
     "artista": "Mamonas Assassinas",
     "categoria": "Rock/Metal"
+  },
+  {
+    "pasta": "musicas/audioslave/like-a-stone",
+    "nome": "Like a Stone",
+    "artista": "Audioslave",
+    "categoria": "Rock/Metal"
   }
 ]
