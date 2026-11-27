@@ -874,5 +874,11 @@
     "nome": "Dawn of Victory",
     "artista": "Rhapsody of Fire",
     "categoria": "Rock/Metal"
+  },
+  {
+    "pasta": "musicas/taylor-swift/safe-sound-feat-the-civil-wars",
+    "nome": "Safe Sound feat. The Civil Wars",
+    "artista": "Taylor Swift",
+    "categoria": "Pop/Rap"
   }
 ]
