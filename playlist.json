@@ -880,5 +880,11 @@
     "nome": "Safe Sound feat. The Civil Wars",
     "artista": "Taylor Swift",
     "categoria": "Pop/Rap"
+  },
+  {
+    "pasta": "musicas/taylor-swift/shake-it-off-taylors-version",
+    "nome": "Shake It Off Taylors Version",
+    "artista": "Taylor Swift",
+    "categoria": "Pop/Rap"
   }
 ]
